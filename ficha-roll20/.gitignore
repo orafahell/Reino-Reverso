@@ -1,0 +1,7 @@
+node_modules/
+_prev.html
+_chat.html
+shot_*.png
+previa_*.png
+*.json.tmp
+__pycache__/
