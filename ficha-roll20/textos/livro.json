@@ -1,0 +1,2020 @@
+{
+ "vantagens": [
+  [
+   "Afinidade Magica",
+   "Quando o personagem tenta usar o sobrenatural ele consegue se blindar contra seus efeitos\nBenefício: O personagem diminui em 1 ponto de Sanidade o custo para realizar Magias Ocultas."
+  ],
+  [
+   "Amigo da Catástrofe",
+   "Não há quantidade de terra ou de destroços de um prédio em demolição que assuste o Personagem.\nBenefício: O personagem não sofre dano nem fraturas causadas diretamente pelo desabamento e não sofre penalidades por poeira ou falta de ar enquanto estiver soterrado. Ainda permanece preso e precisa ser resgatado ou encontrar uma forma de escapar."
+  ],
+  [
+   "Amigo dos Animais",
+   "O personagem possui a habilidade especial de compreender animais, estabelecendo uma conexão profunda com eles. Essa ligação única entre o personagem e os animais amplia suas habilidades e os torna uma equipe poderosa, capaz de enfrentar desafios e superar obstáculos de forma harmoniosa e eficiente.\nBenefício: O personagem pode realizar qualquer comando simples para um animal que não esteja hostil em relação a O comando deve ser simples, compreensível para a espécie e compatível com o comportamento natural do animal.\nEspecial: A Vantagem não concede controle absoluto nem obriga o animal a realizar ações suicidas."
+  ],
+  [
+   "Amizade Verdadeira",
+   "Amizade Verdadeira representa um laço de confiança que não pode ser quebrado.\nBenefício: O personagem possui um amigo (PDM) que nunca vai trair. Além disso, uma vez por aventura, o personagem pode recuperar 2D6 em sanidade ao realizar uma interação social com o seu amigo."
+  ],
+  [
+   "Apostando Tudo",
+   "O personagem compreende que, para conquistar o prêmio desejado, é preciso estar disposto a enfrentar desafios e sair da zona de conforto. Ele está disposto a arriscar, a sacrificar o que for necessário e a superar obstáculos.\nBenefício: Uma vez por sessão o personagem pode fazer uma aposta com o narrador antes de realizar um teste. Ele deverá escolher dois número de um D4 não precisando se limitar a par ou ímpar. O jogador seleciona dois números, enquanto os outros dois representam o narrador. Caso o jogador vença, o teste será considerado um sucesso excepcional, trazendo benefícios adicionais. No entanto, caso falhe, o teste será considerado uma falha crítica, acarretando consequências adversas para o personagem."
+  ],
+  [
+   "Aprendiz",
+   "O personagem possui um mentor que o auxilia entre as aventuras. Sempre que necessário o personagem pode pedir auxílio ao seu mentor.\nBenefício: A cada vez que o personagem compra essa vantagem ele consegue um novo favor com seu mentor:\nNível · Evolução dos Auxílios\n1 Moradia Segura\n2 Contatos Médicos Emergenciais\n3 Pesquisa de Apoio\n4 Encaminhar Equipamentos\n5 Persuasão Carismática\nMoradia segura: Fornece uma Moradia de alto status ao personagem possibilitando pesquisa extensas com o bônus que uma biblioteca forneceria e $300 por semana\nContatos Médicos emergenciais: O mentor irá encaminhar auxílio médico para o personagem ou um aliado que chegará em até uma hora ao local onde o personagem está e realizará um procedimento de tratamento médico (Curando 2D12+5).\nPesquisa de apoio: Pode realizar um teste de Perícia não combativa com bônus de +10 pelo personagem\nEncaminhar equipamentos: O mentor pode encaminhar itens para o personagem que tenham no máximo o custo de $1000 x o Intelecto do Aprendiz. Caso o personagem destrua o item recebido em um curto período, isso pode enfraquecer o Mentor.\nPersuasão Carismática: Ele possui um carisma magnético e habilidades persuasivas excepcionais, sendo capaz de influenciar e convencer outras pessoas com facilidade. O Mentor pode influenciar a mente de captores ou adversários fazendo com que um conflito seja evitado ou adiado dando tempo para que seu Aprendiz possa elaborar melhor seus planos ou fugir de uma situação"
+  ],
+  [
+   "Arma Sobrenatural",
+   "O personagem aprendeu como atacar criaturas com fragmentos mágicos no ar.\nBenefício: O personagem pode realizar testes de Ocultismo contra adversários que estejam a pelo menos 6 metros dele. Esse efeito causa danos sobrenaturais ao alvo evitando redução de danos de armaduras. Para cada vez que adquirir essa vantagem o dano aumenta conforme a tabela a seguir:\nNível · Dano\n1 1D8 + Intelecto\n2 1D10 + Intelecto\n3 1D12 + Intelecto\n4 2D6 + Intelecto\n5 2D8 + Intelecto"
+  ],
+  [
+   "Arremessar no Horizonte",
+   "Bolas de beisebol, tampas de bueiros, barris de cerveja e outros objetos arremessados tornam-se pequenas manchas à distância quando o personagem os atira.\nBenefício: O personagem dobra a distância que pode arremessar algo. Essa vantagem não torna o personagem mais capaz de ver ou acertar um alvo."
+  ],
+  [
+   "Arrepios",
+   "O personagem possui uma sensibilidade inata em relação ao sobrenatural, que o faz sentir-se incomodado e desconfortável na presença de fenômenos e criaturas fora do comum. Essa habilidade lhe permite perceber de forma aguçada a existência do mundo além do ordinário, sendo capaz de identificar a presença de entidades sobrenaturais e manifestações inexplicáveis.\nBenefício: O personagem tem sensações físicas ao paranormal (arrepios etc.). Ao entrar em contato com um local envolto em magia ou se aproximar de uma criatura sobrenatural pela primeira vez, esse sentido se manifesta."
+  ],
+  [
+   "Ataque Adicional",
+   "O personagem sabe que estar com duas armas permite acertar em dois alvos\nBenefício: Caso o personagem esteja utilizando uma arma em cada mão ele poderá realizar dois ataques na mesma ação padrão. O primeiro ataque receberá uma penalidade de -2 e o segundo uma penalidade de -4. Os ataques podem ser direcionados ao mesmo alvo ou a alvos diferentes. Cada ataque causa seu dano normalmente caso acerte. Efeitos que exigem um ataque podem ser aplicados a apenas um deles, salvo indicação contrária."
+  ],
+  [
+   "Ataque Mirado",
+   "O personagem adquire a capacidade de fazer ataques focados em locais contra seus adversários.\nBenefício: Cada vez que o personagem adquire esta Vantagem, desbloqueia um novo local mirado.\nNível · Local Mirado\n1 Braço\n2 Perna\n3 Cabeça Para utilizar essa vantagem o personagem realiza um ataque com -4 contra seu alvo.\nMirar no Braço: Caso acerte o oponente terá que realizar um teste de Vitalidade (DT 10 + cada\nnível dessa vantagem) e caso falhe soltará o que estiver carregando no momento e receberá a condição “Lesão em Membros”\nMirar na Perna: O personagem pode realizar um ataque para tentar acertar a perna de seu adversário. Caso acerte, o oponente terá que realizar um teste de Vitalidade (DT 11 + cada\nnível dessa vantagem) e caso falhe perderá metade de seu deslocamento receberá a condição “Ferida na Perna”\nMirar na Cabeça: O personagem poderá realizar um ataque para acertar diretamente a cabeça do oponente. Caso acerte o oponente terá que realizar um teste de Vitalidade (DT 12 + cada\nnível dessa vantagem) e caso falhe ele ficará atordoado por 1D4 rodadas."
+  ],
+  [
+   "Atirador de Elite",
+   "O personagem possui uma habilidade excepcional em medir distâncias de forma precisa e determinar alvos prioritários em uma situação.\nBenefício: O personagem não sofre penalidades por combate engajado ou inimigos corpo a corpo enquanto realiza ataques a distância."
+  ],
+  [
+   "Aumentando as Apostas",
+   "Sua determinação é uma fonte inesgotável de motivação e energia, impulsionando-o a alcançar seus objetivos mesmo diante dos desafios mais difíceis.\nBenefício: O personagem aumenta em 1 sua Força de Vontade.\nEspecial: Essa vantagem só pode ser comprada uma vez"
+  ],
+  [
+   "Aura Enganosa",
+   "Você parece ser um humano para qualquer um que estiver lendo sua aura.\nBenefício: Testes para identificar o personagem como um personagem corrompido tem desvantagem."
+  ],
+  [
+   "Benção do Rio Sagrado",
+   "O personagem ganha uma afinidade especial com a água e pode controlá-la de forma sutil.\nBenefício: O personagem se move rapidamente através de cenas aquáticas sem penalidades."
+  ],
+  [
+   "Benefício da Dúvida",
+   "Às vezes, para o personagem ser capaz de ajudar as pessoas convencê-las a ficar fora de perigo mesmo que contra sua vontade.\nBenefício: Gastando uma ação de rodada completa o personagem pode realizar um teste de presença DT 12 e em caso de sucesso fará com que todos os civis e inocentes na cena se retirem."
+  ],
+  [
+   "Cheiro de Conflito",
+   "O personagem é capaz de saber o que exatamente irá dar início a uma confusão, briga ou situação de caos.\nBenefício: Sempre que um conflito for se iniciar o personagem sabe que irá acontecer. O personagem não pode ser pego desprevenido no primeira rodada do combate."
+  ],
+  [
+   "Controle de Terreno",
+   "O personagem tem a habilidade de não se abalar por terrenos diferenciados\nBenefício: O personagem ignora todas as penalidades de dificuldade baseadas em bases instáveis e terreno traiçoeiro. Ele ainda sofre penalidades de velocidade por se mover através de água ou lama na altura dos joelhos, mas seus testes para ações realizadas em tal terreno não sofrem penalidades."
+  ],
+  [
+   "Corpulento",
+   "Os Deuses forneceram um físico divino ao personagem o tornando muito mais alto e poderoso\nBenefício: O personagem tem mais de 2,10 metros de altura e dobra sua capacidade de carga e suas rodadas de fôlego, mas recebe -1 em reações devido ser um alvo mais fácil de ser acertado."
+  ],
+  [
+   "Custe o que Custar",
+   "O personagem vai lutar até o sua última força mesmo que isso custe sua vida\nBenefício: O personagem consegue continuar combatendo mesmo em estado “Morrendo”, mas poderá apenas realizar uma ação por rodada e não poderá utilizar surtos. Caso o personagem morra, poderá realizar uma última ação padrão antes de morrer. Personagens têm desvantagem para estabilizar o personagem devido ele estar fora de si."
+  ],
+  [
+   "Defensivo",
+   "A defesa do personagem é notável, mesmo sem a utilização de armaduras ou equipamentos de proteção.\nBenefício: O personagem recebe redução de danos físicos 2 enquanto não usar nenhum item de proteção."
+  ],
+  [
+   "Desperto",
+   "O personagem recebeu o benefício de um descanso menor, pois os sonhos habitam seus dia a dia\nBenefício: O personagem precisa de apenas 5 horas de descanso para que seus pontos sejam recuperados."
+  ],
+  [
+   "Elogiar",
+   "O personagem tem a capacidade de maravilhar seus ouvintes os enchendo de cortejos e elogios fazendo assim com que a sua audiência caia de cara com suas palavras\nBenefício: Realize um teste de presença para fornecer bônus para outras interações sociais durante uma cena.\nResultado · Bônus\n10 +1 em testes sociais\n20 +2 em testes sociais\n30 +3 em testes sociais"
+  ],
+  [
+   "Envenenador",
+   "O personagem possui um amplo conhecimento e habilidade no uso de venenos. Seja através da coleta de substâncias tóxicas naturais, da criação de poções letais ou da manipulação de agentes químicos, ele é um especialista na arte dos venenos.\nBenefício: Todos os venenos ministrados pelo personagem tem sua dificuldade no teste aumentada em +2."
+  ],
+  [
+   "Esguio",
+   "O corpo do personagem é tão ágil e flexível ou tão anormalmente maleável que ele pode se curvar como o junco mais verde e raramente quebrar.\nBenefício: O personagem reduz o dano de qualquer queda que receberia em 3 pontos."
+  ],
+  [
+   "Estrategista Criativo",
+   "O seu personagem tem uma mente intuitiva para a estratégia e trabalho em equipe.\nBenefício: Toda vez que o personagem atua em uma ação de trabalho em equipe, os participantes ignoram penalidades circunstanciais para a ação."
+  ],
+  [
+   "Extensão",
+   "O personagem controla a magia e consegue moldá-la para aliados\nBenefício: Pelo custo de 5 pontos de habilidade, o personagem consegue alterar uma magia de Alcance “Pessoal” para uma magia de toque em outro alvo."
+  ],
+  [
+   "Favoritismo",
+   "O personagem nasceu com privilégios que o diferenciam dos demais desde o início. Esses dons permitem ao personagem acesso a recursos que a maioria dos personagens não tem a princípio.\nBenefício: O personagem recebe uma Magia Oculta adicional de qualquer ciclo que já tenha desbloqueado."
+  ],
+  [
+   "Figura inspiradora",
+   "As palavras bem escolhidas do personagem podem influenciar a mentalidade social da humanidade, dando esperança e coragem não apenas a um ouvinte, mas a um grupo.\nBenefício: Uma vez por semana o personagem pode realizar um discurso motivador para seus aliados. Todos aqueles que ouvirem seu discurso recuperam automaticamente 1 ponto de Força de vontade."
+  ],
+  [
+   "Fingir Saber",
+   "O personagem mente tão bem que até ele acredita em suas histórias\nBenefício: O personagem pode somar seu bônus de Carisma a outro atributo em um teste de perícia que não seja de combate uma vez por cena."
+  ],
+  [
+   "Focado em Perícia",
+   "O personagem se torna um verdadeiro mestre nessa área específica, adquirindo um conhecimento profundo e habilidades excepcionais relacionadas a essa perícia em particular.\nBenefício: Escolha uma perícia. O personagem recebe +2 em testes dessa perícia. O tempo de uma ação estendida nessa perícia é reduzido pela metade para o personagem.\nEspecial: Essa vantagem só pode ser comprada uma vez"
+  ],
+  [
+   "Foco Meditativo",
+   "Independente da situação em que esteja, o personagem nunca perde a calma.\nBenefício: O personagem reduz penalidades por distrações em 2."
+  ],
+  [
+   "Fornalha Imune",
+   "Qualquer pestilência ou veneno à espreita no que ele consome queimar nas chamas de sua constituição\nBenefício: O personagem torna-se imune a venenos e doenças."
+  ],
+  [
+   "Forno Interno",
+   "O personagem raramente carece de sustento.\nBenefício: Contanto que ele encontre algum tipo de substância orgânica, o personagem pode sobreviver impedindo efeitos causados por fome ou sede. Este efeito não melhora o sabor da refeição"
+  ],
+  [
+   "Fugitivo Profissional",
+   "Você sabe passar despercebido pelas multidões e isso tem ajuda a seguir os seus alvos discretamente.\nBenefício: Você tem vantagem em testes de infiltração e pode realizar um teste com desvantagem para tentar se esconder em um local durante uma perseguição."
+  ],
+  [
+   "Graduações",
+   "O personagem tem a habilidade de melhorar seus conhecimentos de forma eficiente e rápida.\nBenefício: O personagem recebe 2 graduações para distribuir em suas perícias respeitando seus limites de graduação.\nEspecial: Essa vantagem só pode ser comprada uma vez"
+  ],
+  [
+   "Habilidoso",
+   "Sua determinação, dedicação e talento o impulsionam a ir além dos limites, superando desafios e alcançando o sucesso em suas empreitadas.\nBenefício: O personagem aumenta seu total de pontos de habilidade em 5."
+  ],
+  [
+   "Honesto dos Deuses",
+   "Quando o personagem está tentando convencer alguém de algo ele usa de seu charme e condescendência para afetar o âmago de pessoas comuns\nBenefício: O personagens impõe desvantagem para duvidar de suas mentiras."
+  ],
+  [
+   "Ímpeto Combativo",
+   "O personagem sabe que agir primeiro é parte de sua chance de sobrevivência\nBenefício: Ao selecionar essa vantagem escolha entre Brutamontes, Intelectuais ou Sociais.\nBrutamontes: Utiliza Força no lugar de agilidade em seus testes de Iniciativa\nIntelectuais: Utiliza intelecto no lugar de agilidade em a seus testes de Iniciativa\nSociais: Utiliza Carisma no lugar de agilidade em a seus testes de Iniciativa"
+  ],
+  [
+   "Ignorar Componente",
+   "Às vezes um preço mais alto deve ser cobrado para conjurar de forma segura\nBenefício:O personagem pode ignorar um componente de execução de uma Magia Oculta que deseje conjurar, porém isso aumentará em pontos de habilidade o custo de realização do mesmo em 4 pontos de habilidade para cada componente ignorado"
+  ],
+  [
+   "Leitor Veloz",
+   "O personagem pode ler e compreender com perfeita clareza um bloco inteiro de texto no tempo que leva para piscar.\nBenefício: Realizando um teste de Percepção DT 12 personagem pode ler uma página inteira de um documento como ação livre contanto que tenha visão completa e nítida do objeto."
+  ],
+  [
+   "Lendas Contadas",
+   "Todas as vezes que o personagem ouve alguém comentando seus feitos, ou mesmo assistindo ou lendo notícias sobre seus atos ele se sente mais motivado a continuar.\nBenefício: Sempre que o personagem ver notícias sobre seus feitos ele recupera 1 ponto de Força de Vontade. Essa vantagem só se ativa uma vez para ele feito realizado pelo personagem."
+  ],
+  [
+   "Levantar-se",
+   "O personagem tem a capacidade de se colocar de pé rapidamente sem nenhuma dificuldade\nBenefício: O personagem pode levantarse como ação livre e consegue não sofrer penalidades por agir no chão contando que não esteja contido ou esteja carregando mais que sua carga média."
+  ],
+  [
+   "Linguista",
+   "Falar foi o que trouxe o personagem até aqui, então falar outro idioma é essencial\nBenefício: O personagem aprende um novo idioma."
+  ],
+  [
+   "Língua dos Mortos",
+   "O personagem pode falar com mortos durante curtos períodos.\nBenefício: O personagem pode se comunicar com mortos podendo realizar 1D4 perguntas ao morto. O personagem deve beijar o cadáver para transferir o sopro da vida ao cadáver. Essa habilidade só pode ser utilizada uma vez no mesmo cadáver."
+  ],
+  [
+   "Linhas do Destino",
+   "O personagem consegue ver as linhas do destino que vibram em direção a seus objetivos\nBenefício: Uma vez por Aventura, o personagem declara um objetivo (uma pessoa ou lugar) e pode localizar por onde aquele objetivo passou por seguir as vibrações causadas por sua linha de Destino. Se o objetivo for um lugar, ele poderá sempre achar o caminho para ele, não importa como está desorientado ou perdido. O efeito dessa vantagem dura por um dia."
+  ],
+  [
+   "Local Seguro",
+   "O personagem possui um lugar onde ele pode se sentir seguro contra os perigos.\nBenefício: Ao adquirir essa vantagem o grupo terá um local seguro para acesso. A cada vez que adquirir essa vantagem o seu abrigo será melhorado. O abrigo segue desde um local simples a uma base completa fornecendo benefícios aos personagens. Todos os benefícios são cumulativos conforme o Local Seguro evolui.\nEspecial: Essa vantagem, diferente das outras, pode ser adquirida pelo grupo como um todo sendo acumulada pelo grupo como um todo.\nNível Esconderijo\nBônus Oficina para testes\n1\nGaragem de Armeiro e\nSegura Profissões Recupera o dobro\n2 · Casa\nEscondida de qualquer tipo de descanso\n3 · Abrigo\nMelhorado Adquirir Itens não combativos\n4\nBunker Adquirir Armamentos"
+  ],
+  [
+   "Mão Pesada",
+   "A mão do personagem é uma arma poderosa. Cada golpe desferido pela mão do personagem é devastador.\nBenefício: O dano do ataque desarmado do personagem aumenta em uma categoria conforme a tabela a seguir:\nDano · Atual · Dano Aumentado\nD4 D6\nD6 D8\nD8 D10\nD10 D12\nD12 2D6\n2D6 2D8\n2D8 2D10\n2D10 2D12\n2D12 4D6"
+  ],
+  [
+   "Medicamentos alternativos",
+   "Ervas medicinais, remédios e antídotos podem ser métodos paliativos para remédios e tentam manter personagens vivos por mais tempo. Ambientes diferenciais fornecem bônus diferentes ao personagem.\nBenefício: O personagem pode, uma vez por cena rolar novamente um teste de medicina ou escolher 10 no lugar de rolar um teste."
+  ],
+  [
+   "Médico Experiente",
+   "Seu conhecimento permite tratar ferimentos com maior eficiência.\nBenefício: Adicione seu valor de Intelecto aos efeitos de Cura que realizar."
+  ],
+  [
+   "Mente sã",
+   "O personagem possui a habilidade única de alcançar um estado de descanso mental profundo e completo\nBenefício: O personagem recupera metade de seus pontos de Sanidade ao realizar um descanso longo"
+  ],
+  [
+   "Mestre do controle",
+   "O personagem possui uma força inabalável, tornando-se resistente a influências psíquicas e físicas.\nBenefício: O personagem recebe um bônus de +2 para testes de Resistência."
+  ],
+  [
+   "Mestre do Tiro",
+   "O personagem entende os pontos de pressão de um indivíduo.\nBenefício: O personagem consegue adicionar +2 no dano de seus ataques com armas a distância"
+  ],
+  [
+   "Militarismo",
+   "O personagem possui um conhecimento excepcional dos acontecimentos históricos e é capaz de desvendar informações relevantes sobre combate.\nBenefício: O personagem pode coordenar seus aliados em cena optando por não agir enquanto toma controle da cena. Aguardando 1D4 rodadas e fazendo isso ele poderá realizar um teste de Conhecimento e cada 5 no resultado de seu teste fornecerá +1 de bônus para todos os seus aliados enquanto se mantiver com o efeito ativo\nEspecial: Essa habilidade só pode ser usada uma vez por cena e caso o personagem realize ações ou se mova o efeito se cancela."
+  ],
+  [
+   "Olhos da Serpente",
+   "O personagem desenvolve uma visão aprimorada, transcendendo os limites da percepção humana e sendo capaz de enxergar coisas que anteriormente estavam além do alcance dos sentidos humanos.\nBenefício: O personagem consegue enxergar no escuro sem penalidades porém ele perde a capacidade de discernir cores."
+  ],
+  [
+   "Permanecer de Pé",
+   "O personagem tem a habilidade de permanecer de pé apesar das melhores tentativas de um inimigo para derrubá-lo.\nBenefício: Um personagem não pode ser derrubado por um ataque. O personagem ainda sofre o dano, mas permanece de pé sem a necessidade de realizar testes."
+  ],
+  [
+   "Prodígio",
+   "O personagem aprende a se conectar mais com seus antepassados passando a ser mais ágil em conjurar suas Magias Ocultas.\nBenefício: O personagem pode conjurar duas Magias Ocultas na mesma Ação padrão gastando 5 pontos de habilidade adicionais."
+  ],
+  [
+   "Rastros Digitais",
+   "O personagem sabe como funcionam linhas de crédito e os rastros de rede sociais e por causa disso ele sabe que é possível rastrear uma pessoa a partir de suas compras\nBenefício: Com um teste de informática, o personagem consegue informações sobre os últimos gastos do alvo e talvez descobrir onde ele se encontra no momento."
+  ],
+  [
+   "Reações cordiais",
+   "Um caminhão ou carro desgovernado, uma explosão ou até incêndios podem ser um problema, mas para você é apenas mais um dia comum em uma vida de sobrevivência\nBenefício: Caso o personagem seja bemsucedido em um teste de Reações contra acidentes, explosões ou incêndios ele não receberá dano nenhum."
+  ],
+  [
+   "Recuperação Rápida",
+   "O personagem possui uma incrível capacidade de recuperação física. Seja após uma lesão, esforço físico intenso ou mesmo em situações extremas, seu corpo é capaz de se regenerar e se recuperar de forma rápida e eficiente.\nBenefício: O personagem recupera metade de sua vida ao realizar um descanso longo."
+  ],
+  [
+   "Regeneração Acelerada",
+   "O personagem possui um poder de cura excepcional, permitindo que seus ferimentos se regenerem rapidamente.\nBenefício: O personagem recupera 1 ponto de vida a cada 2 horas sem combate e se recupera na metade do tempo de lesões em membros."
+  ],
+  [
+   "Resistência",
+   "O personagem possui um treinamento rigoroso que o preparou para enfrentar as adversidades e os desafios da vida de forma resiliente. Ele desenvolveu uma capacidade única de suportar golpes físicos, emocionais e mentais, sendo capaz de resistir e se recuperar rapidamente de situações difíceis.\nBenefício: O personagem recebe 5 pontos de Vida"
+  ],
+  [
+   "Rico",
+   "O personagem entende os princípios financeiros, identifica oportunidades de negócio lucrativas e toma decisões inteligentes para maximizar seus ganhos.\nBenefício: O personagem aumenta sua renda em $5.000"
+  ],
+  [
+   "Sangue Repugnante",
+   "Seu sangue é veneno para aqueles que o provém.\nBenefício: Qualquer um que morda ou se alimente do personagem precisa ser bem sucedido num teste de Vitalidade (DT 10) ou vai perder o próxima rodada engasgado, com náuseas e vomitando."
+  ],
+  [
+   "Saque Rápido",
+   "O personagem pode sacar itens muito rápido para que ainda possa usá-los\nBenefício: O personagem pode sacar um item como ação livre."
+  ],
+  [
+   "Segunda Chance",
+   "O personagem recebe uma segunda chance para seu ataque em momentos de precisão.\nBenefício: O personagem consegue rolar novamente uma jogada de ataque uma vez por sessão"
+  ],
+  [
+   "Sempre Ótimo",
+   "Não importa o que aconteça para ferir o personagem, ele sempre parece estar no auge da saúde. Independentemente do que aconteça, o personagem sempre sai sem um arranhão ou marca.\nBenefício: O personagem não recebe cicatrizes nem feridas marcadas permanentemente. Caso perca um membro seu corpo fará parecer que nunca houve um membro no local. O dano ainda é causado normalmente."
+  ],
+  [
+   "Senso Comum",
+   "O personagem possui uma intuição afiada e uma habilidade única de fazer as perguntas certas nos momentos decisivos.\nBenefício:Uma vez por sessão, como uma ação padrão, o personagem pode escolher uma das seguintes perguntas para fazer ao narrador:\nQual seria a pior decisão? O narrador fornecerá informações sobre a pior escolha ou curso de ação que o personagem poderia tomar naquele momento.\nO que eu tenho a perder agora? O narrador revelará as possíveis perdas ou riscos associados às opções disponíveis para o personagem.\nQual é a decisão mais segura? O narrador indicará qual é a opção mais segura ou menos arriscada entre as alternativas apresentadas ao personagem.\nEstou atrás de uma pista\nirrelevante? O narrador fornecerá informações sobre a relevância ou importância de uma pista ou linha de investigação em que o personagem esteja envolvido."
+  ],
+  [
+   "Sobrenaturalmente Amigável",
+   "O personagem não representa ameaça para nenhum tipo de animal\nBenefício: O personagem não é atacado por animais e animais controlados por rituais devem realizar um teste de Carisma (DT 15) para tentar atacá-lo"
+  ],
+  [
+   "Totem de Proteção",
+   "O personagem pode criar um totem no local. Este totem é um guardião temporário, invocado pelos xamãs da tribo em momentos de perigo iminente.\nBenefício: O personagem criará um totem no local onde está. Este totem enfraquece todas as criaturas sobrenaturais em até 9 metros de distância dele. O Totem de Proteção fica ativo por 1D8 rodadas e só pode ser usado uma vez por sessão. Nenhuma criatura poderá entrar na área do totem (Criaturas que já estiverem dentro da área não são afetadas)\nEspecial: Se o totem for movido ou danificado o efeito automaticamente cancela."
+  ],
+  [
+   "Treino",
+   "O personagem é capaz de se dedicar a um treinamento intenso, que lhe permite aprimorar seu corpo de maneira extraordinária.\nBenefício: Uma vez por cena o personagem pode adicionar sua graduações em um tipo de combate (Armas Brancas, Briga ou Pontaria) no dano de um de seus ataques."
+  ],
+  [
+   "Valendo a vida",
+   "Em situações de perigo iminente, o personagem possui uma sorte extraordinária que o protege de eventos desfavoráveis e pode, às vezes, salvar sua vida. Por algum motivo misterioso ou talvez pela intervenção de forças cósmicas, o acaso age a seu favor, proporcionando-lhe oportunidades inesperadas.\nBenefício: O personagem ignora um dano que o mataria, mas deve rolar um D100. Caso o dado de 50% ou menos o personagem perderá 1 ponto de vitalidade\nEspecial: Essa vantagem só pode ser usada um número de vezes igual a sua vitalidade na mesma cena e não pode ser usada se a vitalidade do personagem for zero."
+  ],
+  [
+   "Usar Armas Exóticas",
+   "O personagem possui uma habilidade inata para dominar o manuseio de qualquer arma que lhe seja entregue. Sua destreza e coordenação permitem que ele compreenda intuitivamente os movimentos e técnicas necessárias para usar cada tipo de arma de forma eficiente.\nBenefício: O personagem aprende utilizar uma arma de categoria “Exótica”."
+  ],
+  [
+   "Uso Profano",
+   "O personagem possui uma habilidade inata de fazer suas Magias Ocultas mais poderosas.\nBenefício: A dificuldade para resistir as Magias Ocultas do personagem aumenta em +2"
+  ]
+ ],
+ "desvantagens": [
+  [
+   "Alvo nas costas",
+   "Seja por sua postura desafiadora, sua presença marcante ou uma misteriosa energia que o envolve, ele parece atrair a atenção dos adversários de forma quase inevitável.\nPenalidade: No início de cada combate, caso exista um inimigo capaz de atacá-lo, pelo menos um adversário deve escolhêlo como primeiro alvo."
+  ],
+  [
+   "Amnésia",
+   "O personagem não se recorda de sua verdadeira identidade, perdeu a memória recente ou um período inteiro de sua vida simplesmente se foi.\nPenalidade: O personagem não pode rolar testes de memória."
+  ],
+  [
+   "Arrogância",
+   "O personagem possui uma personalidade altamente competitiva e um forte senso de superioridade em relação aos outros. Ele tende a subestimar os demais e buscar constantemente provar sua superioridade em diversas áreas.\nPenalidade: O personagem tem -2 em testes da perícia “Interpessoal”."
+  ],
+  [
+   "Assombrado",
+   "O personagem está constantemente assombrado por um espírito malévolo que busca perturbar sua mente e influenciar suas ações. Esse espírito pode ser uma entidade maligna, um fantasma vingativo ou qualquer outra forma de presença sobrenatural.\nPenalidade: Em momentos aleatórios desaparece temporariamente um item comum ou não essencial do personagem.\nEspecial: O efeito não deve impedir permanentemente o avanço da história."
+  ],
+  [
+   "Avareza",
+   "O personagem tem uma mentalidade egoísta e gananciosa, preocupando-se principalmente em acumular riquezas e bens materiais para si mesmo. Ele não tem o hábito de compartilhar seus recursos ou ajudar os outros, priorizando apenas seus próprios interesses financeiros.\nPenalidade: O personagem não divide seus pertences com ninguém, independentemente do motivo."
+  ],
+  [
+   "Cego",
+   "O personagem é cego ou possui uma deficiência visual significativa que o impede de enxergar.\nPenalidade: O personagem não pode realizar testes que dependam exclusivamente da visão. Em combate, sofre Desvantagem em ataques e reações que exijam visão direta e não pode reagir a ataques à distância que não consiga perceber por outros sentidos."
+  ],
+  [
+   "Cético",
+   "O personagem usa o sarcasmo, ironia e descrença como uma barreira emocional para lidar com o desconhecido e o inexplicável.\nPenalidade: Ao se deparar com o sobrenatural o personagem tem que realizar um teste de Intelecto (DT 14) para não considerar aquilo como fraude e tentar interagir de forma inocente."
+  ],
+  [
+   "Código de Honra",
+   "O personagem possui um conjunto rígido de códigos e valores morais que orientam suas ações e decisões. Essa fidelidade aos seus princípios é uma parte essencial de sua identidade e define sua integridade e honra.\nPenalidade: O personagem segue um dos códigos:\nCódigo do Caçador: nunca matar mulheres ou crianças independente da situação.\nCódigo da Derrota: nunca se permitir ser capturado com vida e nunca aceitar a derrota. Caso seja reduzido a 0 Pontos de Vida (apenas em situações de combate honrado, um contra um) ou capturado (em qualquer situação), você DEVE tirar a própria vida.\nCódigo da Honestidade: nunca roubar, trapacear, mentir ou desobedecer às leis, nem permitir que seus companheiros o façam.\nCódigo de Combate: Nunca atacar oponentes caídos ou em desvantagem numérica."
+  ],
+  [
+   "Colecionador Compulsivo",
+   "O personagem tem uma obsessão compulsiva por colecionar um tipo específico de objeto, item ou coisa.\nPenalidade: O personagem deve colecionar objetos de custo monetário alto. (Qualquer objeto é válido). Sempre que se deparar com um objeto do gênero tentará comprá-lo e em caso não tenha renda para tal, realizará um teste de Intelecto (DT 15) para não tentar roubá-lo."
+  ],
+  [
+   "Confiança Cega",
+   "O personagem não cogita planos, pois tudo sempre vai dar certo\nPenalidade: O personagem não mede riscos considerando-se imortal. O personagem precisa realizar um teste de Presença (DT 15) toda vez que precisar fugir ou bater em retirada."
+  ],
+  [
+   "Covarde",
+   "O personagem vive pelo lema \"aquele que hoje vive para lutar amanhã\". Ele acredita que a sobrevivência é a prioridade máxima e que evitar confrontos diretos sempre que possível é a estratégia mais sábia.\nPenalidade: O personagem tem -2 em da perícia “Interpessoal”. Sempre que um combate se inicia o personagem rolará\n1D4. Caso o resultado seja 1 ele irá fugir do combate."
+  ],
+  [
+   "Credulidade",
+   "O personagem tem uma natureza ingênua e tende a acreditar em tudo que lhe é dito. Ele possui uma disposição aberta e confiante, assumindo que as pessoas são sinceras e dizem a verdade.\nPenalidade: O personagem não pode realizar testes para identificar mentiras."
+  ],
+  [
+   "Curiosidade Doentia",
+   "O personagem não consegue evitar saciar sua curiosidade, mesmo em detrimento do seu bem-estar físico\nPenalidade: Sempre que o personagem se depara com um incidente que possa ser resolvido por sua curiosidade (puxar uma alavanca, abrir uma porta, ler uma carta etc.) O personagem precisará realizar um teste de Intelecto (DT 15) para não interagir com o alvo para sanar sua curiosidade."
+  ],
+  [
+   "Curto-Circuito",
+   "O personagem possui uma habilidade peculiar que resulta em uma alta probabilidade de danificar objetos eletrônicos durante suas interações com eles.\nPenalidade: Sempre que o personagem interagir com um objeto eletrônico (Realizar testes) ele tem 50% de chance de quebrar o objeto."
+  ],
+  [
+   "Dano Mental",
+   "O personagem passou por uma experiência intensa e perturbadora que abalou sua percepção da realidade.\nPenalidade: Uma vez por sessão o personagem realizará um teste de Agilidade (DT 15) para não realizar uma ação totalmente desconexa e, geralmente, ofensiva."
+  ],
+  [
+   "Dedo Gatilho",
+   "O personagem enfrenta um problema físico em seus dedos, pois eles tendem a fechar e abrir de forma aleatória e involuntária.\nPenalidade: O personagem aleatoriamente precisará realizar um teste de Vitalidade (DT 12) e em caso de falha abrirá ou fechará a mão impedindo que possa movê-la por 5 minutos."
+  ],
+  [
+   "Deformidade",
+   "O personagem possui uma cicatriz, má formação ou pústula que o marca\nPenalidade: O personagem recebe -4 em todos os testes baseados em carisma no primeiro encontro com um personagem"
+  ],
+  [
+   "Delírios",
+   "O personagem sofre de delírios, que são crenças ou percepções falsas e irracionais sobre si mesmo, os outros ou o mundo ao seu redor.\nPenalidade: O personagem aleatoriamente precisará realizar um teste de Intelecto (DT 15) para que não veja coisas que não estão realmente acontecendo."
+  ],
+  [
+   "Dependente",
+   "O personagem necessita usar a substância constantemente ou tem grandes penalidades em todos os testes.\nPenalidade: Escolha um vício ao seu personagem (Tabaco, álcool etc.) O personagem precisa sanar seu vício diariamente para evitar penalidades:\n1 dia de abstinência: -2 em todos os testes\n2 dias de abstinência: -4 em todos os testes\n3 dias de abstinência: -6 em todos os testes e não consegue dormir\n4 dias de abstinência: -8 em todos os testes, não consegue dormir e torna-se agressivo atacando qualquer personagem que se oponha a seu vício."
+  ],
+  [
+   "Desatenção",
+   "O personagem tem uma tendência natural de se distrair facilmente e não prestar atenção em detalhes ou situações ao seu redor.\nPenalidade: O personagem tem -2 em testes da perícia “Percepção” devido não ser atento a detalhes"
+  ],
+  [
+   "Desmaios",
+   "O personagem sofre de narcolepsia, uma condição em que ele experimenta episódios súbitos de sono durante o dia.\nPenalidade: Aleatoriamente o personagem precisará realizar um teste de Vitalidade (DT 15) e em caso de falha irá desmaiar onde está"
+  ],
+  [
+   "Distúrbio de identidade",
+   "O personagem sofre de distúrbio de identidade, também conhecido como transtorno dissociativo de identidade.\nPenalidade: O personagem mudará de identidade perdendo temporariamente o controle do personagem para o narrador. O personagem não terá memória do que fez durante o apagão de sua mente."
+  ],
+  [
+   "Fedido",
+   "O personagem possui um odor corporal intenso e desagradável, que é perceptível a distância e causa desconforto nas pessoas ao seu redor.\nPenalidade: O personagem tem desvantagens em todos os testes sociais para personagens que sintam seu cheiro."
+  ],
+  [
+   "Fobia",
+   "O personagem possui um medo irracional (coisa, criatura, pessoal, situação etc.) O personagem possui um medo paralisante em relação a esse algo\nPenalidade: Ao se deparar com sua fobia o personagem ficará Indefeso e imóvel automaticamente. Com um teste de Intelecto (DT 15) o personagem poderá tentar se mover a partir da segunda rodada de contato."
+  ],
+  [
+   "Fúria Incontrolável",
+   "O personagem possui dificuldade em controlar sua fúria, o que pode resultar em explosões emocionais intensas e imprevisíveis.\nPenalidade: Sempre que o personagem sofre qualquer dano ou fica irritado ele deverá realizar um teste de Força (DT 15). Em falha, ele ataca imediatamente o alvo de sua irritação."
+  ],
+  [
+   "Hesitante",
+   "Quando as coisas acontecem, você pensa tanto no que vai fazer que acaba não fazendo nada.\nPenalidade: O personagem tem permanentemente iniciativa 0."
+  ],
+  [
+   "Honestidade Radical",
+   "Personagem sempre fala a verdade, não importando a ocasião não sendo capaz de guardar segredos\nPenalidade: Caso o personagem precise mentir ele deverá realizar um teste de Carisma (DT 15) e em caso de falha contará toda a verdade sobre o que tentar ocultar."
+  ],
+  [
+   "Heroico",
+   "O personagem é movido por um espírito heroico, nunca recusando um pedido de ajuda quando se depara com alguém necessitado.\nPenalidade: Sempre que alguém pedir por socorro, o personagem ajudará, mesmo que isso custe sua vida."
+  ],
+  [
+   "Ignorante",
+   "Uma pessoa culturalmente ignorante é aquela que possui um conhecimento limitado ou desinteresse em relação às diferentes expressões culturais, como arte, literatura, música, história, tradições e costumes de diferentes sociedades.\nPenalidade: O personagem tem -2 para testes das perícias “Arte” e “Conhecimento”."
+  ],
+  [
+   "Inimigos",
+   "O personagem é constantemente perseguido por uma variedade de inimigos, incluindo organizações criminosas, gangues e máfias, que estão determinados a capturá-lo ou eliminá-lo.\nPenalidade: O personagem se encontra em constante perseguição por parte de um grupo determinado, que envia emissários para rastreá-lo e confrontá-lo durante suas aventuras. Esses emissários são hábeis, implacáveis e dedicados a capturar ou eliminar o personagem, representando uma ameaça constante em sua jornada. O personagem tem -2 em testes de infiltração devido estar sempre sendo procurado."
+  ],
+  [
+   "Insone",
+   "O personagem enfrenta dificuldades significativas quando se trata de dormir, seja devido a um distúrbio do sono, um problema físico ou mesmo uma condição mental.\nPenalidade: O personagem precisa realizar um teste de Intelecto (DT 12) para conseguir dormir. Caso o personagem falhe em um teste poderá realizar outro na próxima hora, mas caso falhe em 3 testes não conseguirá dormir na noite em questão"
+  ],
+  [
+   "Má fama",
+   "Não importa se o seu personagem fez ou não algo terrível no passado, o tipo errado de pessoa pensa que ele o fez, e agora ele é considerado um pária pelo público em geral\nPenalidade: O personagem recebe -2 em qualquer teste Social."
+  ],
+  [
+   "Membro Amputado",
+   "O personagem perdeu um braço ou perna em outro momento e isso o afetará para o resto da vida\nPenalidade: O personagem tem desvantagem em todas as ações que envolvam o membro."
+  ],
+  [
+   "Míope",
+   "O personagem enfrenta dificuldades significativas quando não está usando seus óculos. Sua visão é comprometida, resultando em uma percepção embaçada e dificuldade em enxergar detalhes, distâncias e objetos com clareza.\nPenalidade: O personagem recebe -4 em testes das perícias “Percepção” e “Pontaria” enquanto estiver sem óculos."
+  ],
+  [
+   "Não Sabe nadar",
+   "O personagem tem uma grande dificuldade quando se trata de lidar com a água. Devido a essa limitação, ele é incapaz de aprender a nadar, não importando o quanto se esforce ou treine.\nPenalidade: O personagem é incapaz de aprender a nadar."
+  ],
+  [
+   "Obsessão Doentia",
+   "O personagem possui uma obsessão severa com alguém. O personagem faria de tudo por esse alguém.\nPenalidade: O personagem é totalmente influenciável pelas opiniões e ações de sua paixão não podendo se opor a ela em testes e nunca sendo agressivo contra ela."
+  ],
+  [
+   "Objeto de sorte",
+   "O personagem possui um amuleto da sorte que é fundamental para sua sobrevivência. Seja um pé de coelho, um boné maneiro ou qualquer outro objeto, esse amuleto é considerado um objeto sagrado e de extrema importância para o personagem.\nPenalidade: O personagem é dependente de seu objeto de sorte. Caso esteja sem ele, o personagem tem -1 em todos os testes devido seu azar."
+  ],
+  [
+   "Odiado por Animais",
+   "O personagem tem uma aura ou presença que causa repulsa nos animais ao seu redor.\nPenalidade: Nenhum animal será social com o personagem e todos têm 50% de chance de atacar o personagem no primeiro encontro."
+  ],
+  [
+   "Pacifista Radical",
+   "O personagem possui uma aversão profunda ao combate e à violência, optando por evitar o confronto direto e nunca iniciando ataques contra outras pessoas.\nPenalidade: O personagem não pode realizar testes de armas brancas, briga, contra-ataque ou pontaria, mesmo que isso custe sua vida."
+  ],
+  [
+   "Pacto Obscuro",
+   "O personagem realizou um pacto sombrio, vendendo sua alma para uma entidade sinistra em troca de algo. No entanto, essa transação tem um preço a ser pago, e o personagem está ciente de que terá que enfrentar as consequências de seu pacto.\nPenalidade: O personagem receberá uma tarefa podendo ser simples ou complexa da qual não poderá se negar a fazer. O personagem não pode compartilhar essa tarefa com outros personagens. Assim que a tarefa for realizada a desvantagem é removida da ficha do personagem."
+  ],
+  [
+   "Paranoia",
+   "O personagem sofre de paranoia, um transtorno mental caracterizado por uma desconfiança excessiva e irracional em relação aos outros e ao mundo ao seu redor.\nPenalidade: O personagem precisará realizar um teste de Carisma (DT 15) para não acreditar que está sendo perseguido ou observado."
+  ],
+  [
+   "Perdido",
+   "O personagem encontra-se em uma situação desorientadora, sem ter clareza sobre sua localização atual ou de como chegar ao seu objetivo.\nPenalidade: O personagem não sabe se localizar e toda vez que um aliado tentar realizar um teste da perícia “Percepção” ele receberá -5 em seu teste em seu primeiro teste."
+  ],
+  [
+   "Pesadelos",
+   "O personagem é assombrado por pesadelos intensos e perturbadores que se manifestam em seus sonhos. Esses sonhos são vívidos e muitas vezes refletem seus medos, traumas e ansiedades mais profundas.\nPenalidade: O personagem recupera metade dos pontos de medidor de Sanidade ao descansar a menos que utilize remédios para dormir."
+  ],
+  [
+   "Pessoa Importante",
+   "O personagem possui um parente e dedica sua vida para ver essa pessoa bem e em segurança\nPenalidade: O personagem possui um PDM que será recorrente em suas aventuras e caso esse personagem morra o personagem terá desvantagem para todos os seus testes."
+  ],
+  [
+   "Piromania",
+   "A piromania é um transtorno mental caracterizado por um impulso irresistível de iniciar incêndios de forma deliberada e repetitiva, sem motivo aparente.\nPenalidade: Aleatoriamente o personagem precisará realizar um teste de Intelecto (DT 15) para não querer atear fogo a algum objeto da cena"
+  ],
+  [
+   "Pobreza",
+   "O personagem vive uma vida de escassez e privações, tendo pouco ou quase nada de recursos materiais. Ele se encontra em constante necessidade e dificuldade para obter o mínimo necessário para sobreviver.\nPenalidade: O valor de renda mensal do personagem é apenas $100 e ele não possui posses em seu nome."
+  ],
+  [
+   "Procurado",
+   "O personagem encontra-se em constante fuga das autoridades, tendo se envolvido em situações que o colocaram na mira da lei. Seja por crimes cometidos ou por estar envolvido em atividades ilegais, ele precisa estar sempre um passo à frente, evitando ser capturado ou identificado pelas autoridades responsáveis pela sua perseguição.\nPenalidade: O personagem foge da lei e em locais onde as autoridades estejam presentes deve realizar um teste de Presença (DT 20) para não ser reconhecido."
+  ],
+  [
+   "Profetizado",
+   "O personagem carrega consigo o conhecimento de seu destino, seja por meio de uma profecia, premonição ou qualquer outro meio de revelação. Ele tem ciência de como sua jornada irá se desenrolar e de qual será o seu destino, o que pode ser tanto uma bênção quanto uma maldição.\nPenalidade: O personagem foi profetizado e sabe como irá morrer."
+  ],
+  [
+   "Sedentário",
+   "O personagem enfrenta constantemente a sensação de fadiga e falta de energia, sendo um verdadeiro sedentário. Sua vida é marcada pela inatividade física e pela tendência de passar a maior parte do tempo em repouso ou realizando atividades de baixo impacto.\nPenalidade: O personagem tem metade do fôlego que teria normalmente e ele vai ter metade do resultado em testes de atletismo."
+  ],
+  [
+   "Surdo",
+   "O personagem não consegue ouvir.\nPenalidade: Não consegue fazer testes referentes a audição. Não pode defenderse de ataques à distância que não possa ver"
+  ],
+  [
+   "Traumatizado",
+   "O personagem falhou em algo e outros pagaram por isso.\nPenalidade: Escolha uma perícia ou role aleatoriamente (Deve ser uma perícia que o personagem investiu pontos de graduação). Toda vez que o personagem for realizar um teste da perícia ele deverá realizar um teste de Força (DT 15). Em caso de falha ele irá hesitar e não vai realizar a ação perdendo seu turno"
+  ],
+  [
+   "Viciado em Adrenalina",
+   "O personagem é viciado em ação e em situações perigosas, principalmente quando corre risco de vida\nPenalidade: O personagem não foge da ação. Sempre que um caminho agressivo for possível o personagem tomará esse caminho pela adrenalina que isso pode causar. Caso o personagem precise optar pelo caminho mais seguro, ele deverá realizar um teste de Intelecto (DT 15) para poder ignorar a ação."
+  ],
+  [
+   "Visão Profética",
+   "O personagem tem visões e sonhos premonitórios que o ajudam a antecipar eventos futuros e tomar decisões mais sábias. Essas visões podem fornecer dicas valiosas sobre o caminho a seguir ou revelar perigos iminentes.\nPenalidade: Em momentos aleatórios em que o personagem estiver dormindo ele terá sonhos proféticos. O Narrador delimita quando os sonhos vão acontecer, mas é importante ressaltar que sonhos não são exatamente uma verdade podendo serem muito mais mentiras ou devaneios"
+  ],
+  [
+   "Vozes",
+   "O personagem sofre de uma condição conhecida como transtorno de experiência auditiva verbal, em que ele ouve vozes em sua mente que parecem ser externas, dando-lhe comandos ou sugestões. Essas vozes podem ser persistentes e interferir na sua capacidade de concentração e tomada de decisões.\nPenalidade: O personagem aleatoriamente ouve vozes que o indicam ações podendo tentar forçá-lo a fazer o que pedem. Nesses momentos o personagem precisará realizar um teste de Carisma (DT 15) para não obedecer."
+  ]
+ ],
+ "especializacoes": [
+  {
+   "pericia": "Armas Brancas",
+   "descricao": "Com compreensão das armas brancas, o personagem estuda diferentes estilos de luta, técnicas de empunhadura, posturas e estratégias de combate. Ele aprende a identificar os pontos de cada arma, escolhendo as que melhor se adequam ao seu estilo. Ele compreende que, em uma batalha envolvendo armas brancas, a determinação e a força de vontade desempenham um papel crucial para superar seus oponentes. Com uma postura mais firme e eficiente em combate. Seus reflexos são aguçados e sua capacidade de reagir rapidamente às situações aumenta consideravelmente. O personagem se torna um verdadeiro mestre das armas brancas, exibindo uma habilidade inigualável no seu manejo. Os personagens que se especializam nessa perícia dedicam-se a aperfeiçoar suas técnicas, buscando uma harmonia perfeita entre si e suas armas.",
+   "passivo": "O personagem sabe usar qualquer arma Branca como se tivesse a vantagem “Usar arma Exótica” para ela e aumenta o Multiplicador do Decisivo das armas em 1 enquanto as empunhar.",
+   "etapas": [
+    [
+     {
+      "nome": "Reflexos em Combate",
+      "exec": "Ação Livre",
+      "texto": "Em vez de apenas se defender passivamente, o personagem busca assumir o controle da situação.\nBenefício: O personagem aumenta um dado no dano de sua arma corpo a corpo durante uma rodada."
+     },
+     {
+      "nome": "Momento Certo",
+      "exec": "Ação Livre",
+      "texto": "Em vez de se movimentar constantemente e gastar energia desnecessariamente, ele opta por uma postura mais paciente e calculada.\nBenefício: O personagem pode realizar um ataque adicional em qualquer alvo em que possa realizar um ataque de oportunidade."
+     },
+     {
+      "nome": "Combate Preparado",
+      "exec": "Ação Livre",
+      "texto": "O personagem sabe que precisará se esforçar para combater e com isso ele treina suas capacidades.\nBenefício: O personagem recebe +2 para reações durante a cena"
+     }
+    ],
+    [
+     {
+      "nome": "Golpe Cortante",
+      "exec": "Ação Padrão",
+      "texto": "Em vez de se limitar a enfrentar um adversário de cada vez, o personagem busca desferir golpes que atinjam múltiplos alvos ao mesmo tempo.\nBenefício: O personagem consegue realizar um ataque contra dois adversários que estejam a 1,5 metros de distância entre si. É necessário acertar ambos os alvos."
+     },
+     {
+      "nome": "Romper",
+      "exec": "Ação Padrão",
+      "texto": "O personagem utiliza uma técnica de deslocamento avançado impulsionando seu movimento e estabelecendo uma postura ofensiva.\nBenefício: O personagem realiza um ataque corpo a corpo contra o alvo e o forçará a realizar um teste de Vitalidade (DT 13). Em caso de falha empurrará o alvo 3 metros para trás"
+     },
+     {
+      "nome": "Combate Lendário",
+      "exec": "Ação Livre",
+      "texto": "O Guerreiro aprendeu que não é sobre defender e sim sobre continuar atacando.\nBenefício: O personagem pode contra atacar com seu bônus de Arma Branca no lugar do bônus de Reações durante uma cena. (Ainda é considerado uma reação.)"
+     }
+    ],
+    [
+     {
+      "nome": "Empalar",
+      "exec": "Ação Padrão",
+      "texto": "Com um único movimento, o personagem é capaz de desferir um golpe preciso e poderoso capaz de destruir seu alvo.\nBenefício:O personagem pode realizar um ataque corpo a corpo contra um alvo causando 2 vezes o dano da arma no alvo."
+     },
+     {
+      "nome": "Flecha",
+      "exec": "Ação Padrão",
+      "texto": "A flecha é um golpe extremamente ofensivo, caracterizado por um ataque veloz em que o personagem avança em direção ao adversário com a arma esticada e apontada.\nBenefício: O personagem pode estocar diretamente o alvo causando 2 vezes o dano de sua arma no item de defesa do alvo."
+     },
+     {
+      "nome": "Colocando Peso",
+      "exec": "Ação Livre",
+      "texto": "O Guerreiro sabe que base de um bom dano é colocar seu peso no ataque forçando seu inimigo a fugir\nBenefício: O personagem adiciona Sua Vitalidade ao seu dano por um número de rodadas igual ao seu atributo Vitalidade."
+     }
+    ],
+    [
+     {
+      "nome": "Golpe Explosivo",
+      "exec": "Ação Livre",
+      "texto": "Um golpe explosivo pode ser devastador o suficiente para destruir completamente o alvo.\nBenefício: A Margem de ameaça de seus ataques de Armas Brancas diminui em 1 por uma cena."
+     },
+     {
+      "nome": "Foco Total",
+      "exec": "Ação Livre",
+      "texto": "A harmonia entre mente, corpo e arma permite ao personagem executar seus movimentos com uma precisão e fluidez impressionantes.\nBenefício: O personagem pode diminuir a Integridade da sua arma no máximo 10 pontos para adicionar ao seu dano de um ataque. Caso erre o dano é desperdiçado."
+     },
+     {
+      "nome": "Golpes Devastadores",
+      "exec": "Ação Livre",
+      "texto": "O Guerreiro aprendeu a brandir suas armas maximizando seus efeitos e destruindo tudo em seu caminho.\nBenefício: O personagem dobra sua força em dano com armas brancas por uma cena"
+     }
+    ]
+   ]
+  },
+  {
+   "pericia": "Armeiro",
+   "descricao": "O armeiro dedica sua atenção aos procedimentos primordiais no manuseio de armas de fogo. Ele compreende a importância de garantir a integridade e a proteção de todos os envolvidos. O armeiro é um verdadeiro mestre das armas, capaz de transformar-se em uma máquina de combate. Com maestria, o personagem emprega suas técnicas de conserto e reparo, trabalhando com eficiência e precisão para devolver às armas sua funcionalidade e utilidade. Ele é um personagem fascinante que utiliza sua genialidade para criar e inventar soluções únicas durante as investigações, destacando-se por sua abordagem engenhosa e criativa para alcançar seus objetivos. Seja explorando locais remotos ou de difícil acesso, desativando ameaças explosivas ou enfrentando adversários formidáveis, o Inventor confia em suas invenções e dispositivos meticulosamente projetados para superar os desafios que surgem em seu caminho.",
+   "passivo": "O personagem destrava uma arma com munição presa no cano como ação livre e toda arma na mão do personagem recupera um ponto de Integridade por rodada.",
+   "etapas": [
+    [
+     {
+      "nome": "Serrilhar",
+      "exec": "Ação Livre",
+      "texto": "As armas são verdadeiras ferramentas de ferro e aço, projetadas para causar danos e infligir ferimentos.\nBenefício: O personagem aumenta o dano da arma em +2 durante toda a cena."
+     },
+     {
+      "nome": "Cola e Fita Adesiva",
+      "exec": "Ação Padrão",
+      "texto": "O personagem é mestre em formar novas formas de lutar\nBenefício: O personagem pode conectar objetos mundanos formando novos armamentos.\nEspecial: Considere o armamento uma arma improvisada que o personagem saberá utilizar."
+     },
+     {
+      "nome": "Impulsionar Equipamento",
+      "exec": "Ação Livre",
+      "texto": "O personagem aumenta as capacidades de sua arma deixando tudo em seu caminho em maior perigo.\nBenefício: O personagem aumenta o bônus de redução de dano de um equipamento em +2 por uma cena"
+     }
+    ],
+    [
+     {
+      "nome": "Feito à mão",
+      "exec": "Várias Rodadas",
+      "texto": "O personagem possui a habilidade única de criar seus próprios armamentos, utilizando sua expertise e conhecimento em engenharia e metalurgia.\nBenefício: O personagem pode criar qualquer armamento do livro (Na categoria Corpo a Corpo, A distância ou de Fogo).\nEspecial: A cada $100 do custo do item é levado uma hora para fazê-lo. O personagem precisa de uma oficina para usar essa habilidade."
+     },
+     {
+      "nome": "Remendar",
+      "exec": "Ação Padrão",
+      "texto": "O personagem possui a habilidade especial de recuperar rapidamente um equipamento que tenha sido destruído.\nBenefício: O personagem pode dar 10 pontos de Integridade para uma arma destruída em menos de 2 rodadas fazendo com que ela não seja destruída pelo dano. Efeitos que destroem a arma ainda se mantém."
+     },
+     {
+      "nome": "Placas de Proteção",
+      "exec": "Ação Livre",
+      "texto": "O Inventor consegue suprimir as penalidades de sua criação para maximizar sua proteção.\nBenefício: O personagem ignora qualquer penalidade de seu item de proteção e aumenta seu bônus de Redução de dano em 2 por uma cena."
+     }
+    ],
+    [
+     {
+      "nome": "Conserto",
+      "exec": "Ação Padrão",
+      "texto": "O personagem possui um amplo conhecimento e habilidade em reparar danos e consertar armamentos, mesmo os mais severamente danificados.\nBenefício: O personagem consegue recuperar metade dos pontos de Integridade de uma arma.\nEspecial: O personagem só consegue usar essa habilidade fora de combate."
+     },
+     {
+      "nome": "Continuar",
+      "exec": "Ação Padrão",
+      "texto": "O personagem possui um conhecimento para identificar quais itens são mais duráveis em combate.\nBenefício: O personagem consegue recuperar totalmente a Integridade de um item que irá quebrar ao final da cena.\nEspecial: Essa habilidade só pode ser usada uma vez por item."
+     },
+     {
+      "nome": "Infundir Elementos",
+      "exec": "Ação Padrão",
+      "texto": "O Inventor converte seu próprio poder mágico em sua criação.\nBenefício: Escolha um elemento (Água, Ar, Fogo ou Terra). O personagem torna sua arma desse elemento aumentando seu dano em 1 dado por uma cena"
+     }
+    ],
+    [
+     {
+      "nome": "Magnum Opus",
+      "exec": "Várias Rodadas",
+      "texto": "O personagem possui um talento excepcional para a criação de verdadeiras obras-primas no campo do armamento.\nBenefício: O personagem cria uma arma única que causa o dobro do dano que a arma normalmente causa\nEspecial: A cada $200 do custo do item é levado uma hora para fazê-lo. O personagem precisa de uma oficina para usar essa habilidade."
+     },
+     {
+      "nome": "Mesclar",
+      "exec": "Ação Padrão",
+      "texto": "O personagem possui uma habilidade única em combinar duas armas danificadas em uma única peça totalmente funcional.\nBenefício: O personagem pode pegar dois armamentos destruídos e usá-los para criar um armamento funcional"
+     },
+     {
+      "nome": "Potencial Elevado",
+      "exec": "Ação Padrão",
+      "texto": "O Inventor consegue criar propulsores para seu item de defesa possibilitando deslocamento de voo\nBenefício: O personagem recebe deslocamento de voo de 9 metros por rodada e +2 para Reações por uma cena"
+     }
+    ]
+   ]
+  },
+  {
+   "pericia": "Arte",
+   "descricao": "Arte é um profundo conhecimento sobre o funcionamento do mundo artístico, seja como parte do seu estudo e compreensão da própria arte, ou como base para impulsionar sua carreira no mundo do entretenimento. O personagem possui uma sensibilidade aguçada para apreciar e interpretar diferentes formas de arte, como pintura, música, dança e muito mais. O personagem pode seguir pelo meio da arqueologia é uma ciência que se dedica ao estudo das culturas e modos de vida de diferentes sociedades humanas ao longo do tempo, por meio das materialidades deixadas para trás por essas sociedades ou aproveitar para ser uma verdadeira estrela, um mestre na arte de influenciar as massas. Com suas habilidades, ele pode moldar a percepção das pessoas e ter um impacto significativo em marcas, empresas e até mesmo na reputação de seus adversários. Suas postagens viralizam com facilidade e, muitas vezes, atingem diferentes esferas midiáticas.",
+   "passivo": "O personagem recebe +5 de bônus para investigar objetos antigos e qualquer um que o conheça tem -2 para reagir a seus testes sociais.",
+   "etapas": [
+    [
+     {
+      "nome": "Olhar Apurado",
+      "exec": "Ação Livre",
+      "texto": "O personagem dedicou sua vida ao estudo e compreensão do conceito de arte, adquirindo um conhecimento profundo e único.\nBenefício: Ao se deparar com um objeto o personagem pode realizar duas perguntas sobre o objeto em questão:\nExiste algum segredo neste objeto?\nDe qual ano é esse objeto?\nDe qual povo é este objeto?\nO Objeto tem relação com ocultismo?\nComo entender esse objeto melhor?"
+     },
+     {
+      "nome": "Cordão Vermelho",
+      "exec": "Ação Livre",
+      "texto": "A vida noturna é o habitat natural do personagem, um verdadeiro mestre das festas e eventos sociais\nBenefício: O personagem consegue 1D6 convites para qualquer evento devido a sua fama e pode acessar diretamente áreas VIP e pode fazer com que os seguranças de um evento realizem um teste de Intelecto (DT 10 + Presença do\npersonagem) Se falharem ficarão prestativos com o personagem por 1 hora."
+     },
+     {
+      "nome": "Boatos e fofocas",
+      "exec": "Ação Padrão",
+      "texto": "O personagem sabe como seu poder de controle midiático é enorme, então usa isso para dominar as narrativas ao seu favor.\nBenefício: O personagem espalha boatos e falsas verdades sobre o alvo que deverá realizar um teste de Presença (DT 12). Caso falhe no teste os boatos serão considerados verdade e o personagem receberá -4 em todas as interações sociais por uma cena."
+     }
+    ],
+    [
+     {
+      "nome": "Zelo em Objetos",
+      "exec": "Ação Padrão",
+      "texto": "O personagem possui um dom especial para cuidar e restaurar objetos, devolvendo-lhes a vitalidade.\nBenefício: Qualquer objeto de arte ou artefato destruído pode ser reconstruído pelo personagem em 2D4 horas"
+     },
+     {
+      "nome": "Fã",
+      "exec": "Ação Padrão",
+      "texto": "Um fã dedicado pode se tornar um aliado valioso em diversas situações, oferecendo ajuda ao personagem e até mesmo evitando confrontos desnecessários.\nBenefício: Escolha um alvo que precisará realizar um teste de Carisma (DT 15). Em caso de falha ficará prestativo e ajudará sem hesitar a Estrela"
+     },
+     {
+      "nome": "Personalidade Magnética",
+      "exec": "Ação Livre",
+      "texto": "O personagem aprendeu a cativar multidões de forma tão assertiva que seu jeito de resolver sempre ajuda.\nBenefício: O personagem consegue dobrar seu bônus de carisma em testes de interpessoal por uma cena."
+     }
+    ],
+    [
+     {
+      "nome": "Controle de Catálogo",
+      "exec": "Ação Livre",
+      "texto": "O personagem possui a capacidade de identificar rapidamente aquilo que está faltando em uma coleção.\nBenefício: O personagem sabe os itens que faltam em uma coleção e revela falsificações."
+     },
+     {
+      "nome": "Táticas de Sucesso",
+      "exec": "Ação Livre",
+      "texto": "O personagem possui o dom de tocar os corações e as mentes dos outros, trazendo esperança, motivação e alegria.\nBenefício: O personagem pode conceder vantagem a um alvo em um teste contanto que o personagem possa vê-lo."
+     },
+     {
+      "nome": "Help! Help!",
+      "exec": "Ação Livre",
+      "texto": "O personagem sabe como colocar e identificar mensagens escondidas\nBenefício: O personagem consegue criar ou identificar uma mensagem escondida em uma produção sem a necessidade de realizar testes."
+     }
+    ],
+    [
+     {
+      "nome": "Perito",
+      "exec": "Ação Padrão",
+      "texto": "O estudo torna o personagem essencial para identificar artefatos.\nBenefício: Ao poder estudar um artefato ou objeto de arte, o personagem consegue automaticamente saber todas as informações que o objeto pode mostrar ou fornecer."
+     },
+     {
+      "nome": "Estrela Mundial",
+      "exec": "Ação Padrão",
+      "texto": "A fama tem o poder de persuadir até mesmo aqueles que se opõem a ele.\nBenefício: Qualquer personagem que tentar realizar uma ação ofensiva contra a estrela terá desvantagem em sua primeira tentativa na cena."
+     },
+     {
+      "nome": "Fãs por todos os lados",
+      "exec": "Ação Padrão",
+      "texto": "O personagem possui um carisma virtual inigualável, atraindo seguidores e fãs em massa para onde está\nBenefício: O personagem cria uma cena de Tumulto no local onde está (Consulte\ncapítulo Narrando)"
+     }
+    ]
+   ]
+  },
+  {
+   "pericia": "Atletismo",
+   "descricao": "Seja na busca por recordes pessoais, na participação em competições profissionais ou na liderança de equipes esportivas, o personagem está preparado para enfrentar os desafios e explorar todo o potencial de seu corpo. Sua expertise no mundo do esporte o torna uma referência para outros atletas, que buscam orientação e inspiração em seu exemplo. Sua expertise em movimentos corporais específicos o torna ágil e capaz de navegar por terrenos desafiadores com destreza, encontrando atalhos e explorando oportunidades que outros não conseguiriam. Quase sempre no limite e buscando constantemente superar seus próprios limites. Para eles, viver no limite é o que permite explorar o potencial ilimitado que existe dentro de cada um.",
+   "passivo": "Ao utilizar uma habilidade de correr, o personagem triplica seu deslocamento básico e pode realizar um salto que tenha como distância sua altura sem realizar testes.",
+   "etapas": [
+    [
+     {
+      "nome": "Fôlego Elevado",
+      "exec": "Ação Livre",
+      "texto": "O personagem aprende técnicas de respiração profunda e controlada de maneira estratégica para melhorar sua performance.\nBenefício: O personagem recupera todo seu fôlego ao realizar uma ação de “Recuperar fôlego” durante uma cena."
+     },
+     {
+      "nome": "Wall Run",
+      "exec": "Ação Livre",
+      "texto": "O personagem possui a habilidade de correr por paredes e tetos com uma mobilidade surpreendente.\nBenefício: O personagem pode realizar um deslocamento de escalada que seja menor que seu deslocamento sem realizar testes para subir."
+     },
+     {
+      "nome": "Riscos Extremos",
+      "exec": "Ação Livre",
+      "texto": "O Radical ri na cara das dificuldades.\nBenefício: O Radical diminui em 5 penalidade por ações complicadas (correr carregando alguém, escalar sem equipamento etc.) e torna-se imune a efeitos de medo por uma cena."
+     }
+    ],
+    [
+     {
+      "nome": "Gasto de Fôlego",
+      "exec": "Ação Padrão",
+      "texto": "O Esportista sabe guardar suas forças para recuperar uma carga de capacidade em um momento necessário.\nBenefício: O pode dobrar o resultado em um teste físico recebendo a condição “Exausto”."
+     },
+     {
+      "nome": "Equilíbrio Superior",
+      "exec": "Ação Livre",
+      "texto": "O personagem pode ajustar seu centro de gravidade instantaneamente, permitindolhe manter o equilíbrio mesmo em posições desafiadoras.\nBenefício: O personagem pode rolar novamente um teste de atletismo que tenha falhado contanto que não tenha sido uma falha dramática."
+     },
+     {
+      "nome": "Resistência Extrema",
+      "exec": "Ação Livre",
+      "texto": "O corpo do Radical é altamente resistente à fadiga, permitindo-lhe realizar atividades físicas intensas por longos períodos sem se cansar.\nBenefício: O personagem pode adicionar seu Fôlego em metros percorridos em um movimento."
+     }
+    ],
+    [
+     {
+      "nome": "Dobro da potência",
+      "exec": "Ação Livre",
+      "texto": "Sua determinação e técnica no atletismo permitem que ele supere seus próprios limites e alcance seus objetivos.\nBenefício: O personagem dobra seu resultado em seu próximo teste de atletismo."
+     },
+     {
+      "nome": "Rolamento",
+      "exec": "Ação Livre",
+      "texto": "O personagem domina a arte do rolamento garantindo sua segurança ao aterrissar em alturas elevadas.\nBenefício: O personagem pode reduzir pela metade qualquer dano de queda que seja de uma distância menor que 9 metros."
+     },
+     {
+      "nome": "Reflexos Extremos",
+      "exec": "Ação Livre",
+      "texto": "O Radical pode usar de seus conhecimentos extremos para evitar ataques\nBenefício: O Radical pode usar seu bônus de Atletismo no lugar de seu bônus de Reação para Esquivar por uma cena."
+     }
+    ],
+    [
+     {
+      "nome": "Velocidade sobre Humana",
+      "exec": "Ação Padrão",
+      "texto": "O personagem guarda durante a corrida uma energia explosiva que libera em momentos necessários\nBenefício: O personagem pode correr ou nadar o equivalente a 5 vezes o seu deslocamento básico sem realizar testes e sem consumir Fôlego durante uma cena."
+     },
+     {
+      "nome": "Investida de obstáculos",
+      "exec": "Rodada Completa",
+      "texto": "O personagem é capaz de identificar e aproveitar cada obstáculo para impulsionar-se e realizar movimentos acrobáticos que contornam qualquer caminho.\nBenefício: O personagem pode realizar uma corrida com saltos entre obstáculos ou por obstáculos sem realizar testes e não consome Fôlego nessa ação."
+     },
+     {
+      "nome": "Extremo",
+      "exec": "Ação Padrão",
+      "texto": "O Radical se coloca no momento em que nem as leis da física irão parar seus feitos extremos.\nBenefício: O personagem adquire um deslocamento de escalada igual ao seu deslocamento, podendo escalar nessas distâncias sem testes por uma cena."
+     }
+    ]
+   ]
+  },
+  {
+   "pericia": "Briga",
+   "descricao": "O personagem está empenhado em uma jornada de combate, buscando aprimorar suas habilidades e dominar os diversos estilos de luta que o mundo tem a oferecer. Ele compreende que cada estilo de combate possui suas próprias técnicas, estratégias e filosofias únicas. Os lutadores habilidosos são treinados para lançar golpes precisos e poderosos, como jabs, cruzados, uppercuts e ganchos, visando atingir o corpo e a cabeça do oponente. O personagem que se dedica ao aprimoramento dos estilos de combate, escolhe trilhar um caminho de disciplina e técnica, enquanto outros podem sucumbir à barbárie e à violência desenfreada.",
+   "passivo": "O dano dos ataques desarmados do Personagem torna-se letal e evoluem conforme ele evolui níveis de personagem.\nNível · Dano Desarmado\n1 D6\n3 D8\n5 D10\n7 D12\n9 2D6",
+   "etapas": [
+    [
+     {
+      "nome": "Cruzado",
+      "exec": "Ação Padrão",
+      "texto": "Quando somos atingidos pelo primeiro golpe que a verdadeira batalha se inicia.\nBenefício: O personagem acerta o alvo com um cruzado no queixo o forçando a realizar um teste de Vitalidade (DT 12). Em caso de falha ele receberá a condição “Atordoado” por uma rodada."
+     },
+     {
+      "nome": "Golpe frontal",
+      "exec": "Ação Padrão",
+      "texto": "O golpe frontal é para atingir o tronco ou a cabeça do oponente, buscando causar impacto e desequilíbrio, além de potencialmente incapacitar o adversário.\nBenefício: O personagem aumenta um dano em seu próximo ataque desarmado e um dado.\nEspecial: O personagem só pode usar essa habilidade uma vez por rodada."
+     },
+     {
+      "nome": "Foco no Combate",
+      "exec": "Ação Livre",
+      "texto": "O Pugilista consegue concentrar todo o seu poder em seus punhos\nBenefício: O Personagem recebe +2 para ataques desarmados durante uma cena."
+     }
+    ],
+    [
+     {
+      "nome": "Direto",
+      "exec": "Ação Padrão",
+      "texto": "Um golpe executado com uma combinação perfeita de força e velocidade, visando surpreender o oponente.\nBenefício: Realize um ataque contra um alvo que deverá realizar um teste de Força DT 13, em caso de falha, ele cairá no chão e terá que gastar sua ação para levantarse."
+     },
+     {
+      "nome": "Knock Out",
+      "exec": "Ação Padrão",
+      "texto": "O golpe é executado de forma direta para o lado, com o propósito de atingir o alvo e causar desorientação.\nBenefício: Realize um ataque contra um alvo que deverá realizar um teste de Vitalidade DT 13, em caso de falha, ele receberá a condição “Lesão em Membro”. Caso o alvo obtenha uma falha dramática em seu teste, irá desmaiar."
+     },
+     {
+      "nome": "Soco no Soco",
+      "exec": "Ação Livre",
+      "texto": "O Pugilista aprendeu a bater nos ataques o cercam criando uma sequência de socos que pode bloquear os inimigos desavisados\nBenefício: O personagem pode utilizar seu bônus de briga para testes de Reações, mas em caso de sucesso receberá metade do dano que seria causado.\nEspecial: Essa habilidade deve ser anunciada antes de rolar o dado para o Reações."
+     }
+    ],
+    [
+     {
+      "nome": "Golpe Sujo",
+      "exec": "Ação Padrão",
+      "texto": "O personagem é um mestre da luta “desonesta”. Ele pode pisar nos dedos dos pés de seu oponente para distraí-lo. De qualquer maneira, ele luta sujo.\nBenefício: O personagem ataca o alvo de forma totalmente ilegal e desonesta impondo desvantagem para o personagem reagir."
+     },
+     {
+      "nome": "Golpe Giratório",
+      "exec": "Ação Padrão",
+      "texto": "Com um salto e um giro no ar, o lutador é capaz de acertar todos ao seu redor.\nBenefício: O personagem consegue realizar um teste de ataque que acertará todos os personagens ao seu redor."
+     },
+     {
+      "nome": "Punho Indestrutível",
+      "exec": "Ação Padrão",
+      "texto": "Mesmo com seus braços quebrados o pugilista se força ao limite para destruir seus adversários. Mesmo que isso custe caro futuramente.\nBenefício: O personagem consegue continuar socando mesmo se seu braço estiver quebrado por uma cena. Após o fim da cena o personagem terá 30% de chance de perder o membro devido ao esforço."
+     }
+    ],
+    [
+     {
+      "nome": "Fúria Desencadeada",
+      "exec": "Ação Livre",
+      "texto": "O personagem é capaz de desencadear toda a sua fúria e agressividade de forma devastadora.\nBenefício: O personagem entra em um estado de fúria desencadeada, podendo realizar um ataque adicional desarmado por rodada durante uma cena.\nEspecial: Após usar essa habilidade o personagem recebe a condição “Exausto”. O personagem só pode usar essa habilidade uma vez por dia."
+     },
+     {
+      "nome": "Golpe Devastador",
+      "exec": "Ação Livre",
+      "texto": "Toda a força e energia do lutador podem ser canalizadas em um ataque destruidor.\nBenefício: O personagem triplica sua força em seus ataques desarmados por um ataque."
+     },
+     {
+      "nome": "Força de Monstro",
+      "exec": "Ação Padrão",
+      "texto": "O personagem domina a arte do punho monstruoso podendo igualar sua força a das criaturas que combate.\nBenefício: O personagem dobra sua Força para o dano de seus ataques desarmados por um número de rodadas igual ao seu atributo Força."
+     }
+    ]
+   ]
+  },
+  {
+   "pericia": "Ciência Forense",
+   "descricao": "A ciência forense desempenha um papel crucial na investigação criminal, fornecendo insights valiosos por meio da análise científica das evidências encontradas em diferentes tipos de cenas de crime. O conhecimento em Enigmas é reservada para aqueles com uma mente astuta e uma paixão pela resolução de quebra-cabeças complexos. A investigação forense é uma disciplina crucial no campo da aplicação da lei, envolvendo a aplicação de métodos científicos e técnicas especializadas para coletar e analisar evidências em cenas de crime. O Jornalista é aquele responsável pela apuração, investigação e apresentação de notícias, reportagens, entrevistas ou distribuição de informações de interesse coletivo.",
+   "passivo": "Sempre que o personagem se depara com um corpo morto ele identifica se o dano foi cortante, contundente ou perfurante e se foi algo com noção do que estava fazendo ou se foi algo acidental sem testes e o tempo de resolução de qualquer tipo de enigma para o personagem é diminuído à metade.",
+   "etapas": [
+    [
+     {
+      "nome": "Quebra Cabeças",
+      "exec": "Ação Livre",
+      "texto": "O personagem possui habilidades excepcionais para decifrar enigmas e quebra-cabeças, demonstrando uma mente aguçada e perspicaz.\nBenefício: O personagem encontra marcações que servem como dica podendo perguntar uma dessas perguntas ao narrador que responderá com sim ou não:\nEstou no caminho para resolver esse enigma?\nEstou com todas as pistas para esse enigma?"
+     },
+     {
+      "nome": "Estudo de cena",
+      "exec": "Várias Rodadas",
+      "texto": "O personagem com uma mente afiada e perspicaz, ele é capaz de identificar padrões e conectar peças aparentemente desconexas\nBenefício: Após passar uma hora investigando o local de um crime, o personagem sabe o que causou a morte do alvo e, se houver, qual arma foi usada contra o alvo."
+     },
+     {
+      "nome": "Questionar testemunhas",
+      "exec": "Ação Livre",
+      "texto": "O personagem é mestre em persuadir e convencer pessoas a compartilharem informações valiosas para suas reportagens\nBenefício: O personagem dobra o seu bônus de Carisma em testes de obter informações durante uma cena."
+     }
+    ],
+    [
+     {
+      "nome": "Descriptografia Urgente",
+      "exec": "Ação Livre",
+      "texto": "O personagem possui uma habilidade de analisar provas e evidências com uma precisão extraordinária.\nBenefício: O personagem diminui a metade o tempo para descriptografar uma mensagem ou decifrar um enigma."
+     },
+     {
+      "nome": "Balística do crime",
+      "exec": "Várias Rodadas",
+      "texto": "Ao observar minuciosamente o corpo na cena do crime, o personagem possui a habilidade de identificar e compreender os conceitos balísticos envolvidos.\nBenefício: Ao analisar um corpo por 1D4 horas o personagem sabe identificar a arma usada e em casos de disparos ele identifica a distância exata em que o atirador estava, se o atirador acertou onde queria e quantas munições ou golpes foram gastos antes de o alvo morrer."
+     },
+     {
+      "nome": "Obtendo Pistas",
+      "exec": "Ação Padrão",
+      "texto": "O personagem tem uma percepção para pistas similar a sua habilidade de obter informações das pessoas.\nBenefício: O personagem pode realizar testes de Ciência Forense no lugar de percepção para procurar pistas por uma cena"
+     }
+    ],
+    [
+     {
+      "nome": "Visão criptográfica",
+      "exec": "Ação Livre",
+      "texto": "O personagem é capaz de enxergar códigos e símbolos criptográficos ocultos a olho nu, revelando mensagens secretas e informações protegidas.\nBenefício: O personagem consegue decifrar criptografias sem realizar testes por uma cena."
+     },
+     {
+      "nome": "Coleta de Evidências",
+      "exec": "Várias Rodadas",
+      "texto": "O personagem é especialista em coletar e preservar evidências de forma adequada, garantindo sua integridade e evitando contaminação.\nBenefício: O personagem consegue reconstituir provas danificadas que não estejam inutilizadas (Papeis manchados. Documentos rasgados etc.)"
+     },
+     {
+      "nome": "Fazendo Amizades",
+      "exec": "Ação Padrão",
+      "texto": "O personagem tem um dom tão grande de oratória que a cada sucesso em convencer alguém os torna melhores amigos.\nBenefício: A cada sucesso em um teste de social o personagem aumentará em uma categoria nível de aliado em relação ao alvo durante a cena.\nEspecial: Essa habilidade só pode ser usada uma vez por cena e o nível de aliado não pode superar o carisma do personagem."
+     }
+    ],
+    [
+     {
+      "nome": "Segredos das Sombras",
+      "exec": "Ação Livre",
+      "texto": "O personagem é capaz de enxergar pela própria escuridão e assim localizar aquilo que é oculto ao olho humano\nBenefício: O personagem consegue enxergar no escuro e ver runas secretas por uma Cena."
+     },
+     {
+      "nome": "Retrocognição",
+      "exec": "Ação Livre",
+      "texto": "O personagem pode tocar em objetos ou entrar em locais e visualizar eventos passados relacionados a crimes, permitindo reconstituir cenas de crime e identificar suspeitos.\nBenefício: Uma vez por cena ao ativar esta habilidade o personagem consegue ver vislumbres da cena pelo ponto de vista do assassino e assim entender melhor como o crime aconteceu"
+     },
+     {
+      "nome": "Obtenção",
+      "exec": "Ação Livre",
+      "texto": "O personagem sabe que precisa das respostas para suas notícias.\nBenefício: O personagem recebe + 6 em todos os testes de Ciência Forense por uma cena."
+     }
+    ]
+   ]
+  },
+  {
+   "pericia": "Condução",
+   "descricao": "A habilidade do personagem em se conectar diretamente com os veículos que dirige ou os animais que cavalgam é verdadeiramente notável. Essa conexão vai além da simples interação e se torna uma simbiose perfeita entre o condutor e sua montaria. O Rei ou Rainha das ruas busca a adrenalina das altas velocidades, buscando desafios que testam seus limites e sua destreza. O personagem domina não apenas as técnicas de direção veloz e precisa, mas também entender as nuances e estratégias desse mundo clandestino. Como o piloto de fuga é especializado em fugas rápidas e evasões audaciosas, ele é o responsável por conduzir veículos em alta velocidade, enquanto enfrenta perseguições policiais e supera obstáculos no caminho.",
+   "passivo": "O personagem consegue pilotar veículos e conforme evolui tudo se torna possível.\nNível de · Personagem · Tipo de Veículo\n1 Comuns\n3 Veiculos grandes\n5 Marítimos\n7 Aéreos\n9 Qualquer veículo",
+   "etapas": [
+    [
+     {
+      "nome": "Piloto de Fuga",
+      "exec": "Ação Padrão",
+      "texto": "O personagem possui um controle absoluto sobre seu veículo, permitindolhe realizar manobras precisas e rápidas para escapar de perseguidores.\nBenefício: O personagem dobra a velocidade de um veículo durante uma ação. Caso seu personagem sofra um acidente enquanto dirige usando está habilidade ele não se machuca, mas os passageiros receberão dano normal e o veículo dano dobrado."
+     },
+     {
+      "nome": "Passageiros",
+      "exec": "Ação Padrão",
+      "texto": "O personagem possui um talento excepcional para garantir a segurança dos passageiros durante uma viagem.\nBenefício: Todo o dano que seria causado a passageiros em um acidente onde o Piloto está no controle é causado ao veículo e não aos personagens"
+     },
+     {
+      "nome": "Encontrão",
+      "exec": "Ação Padrão",
+      "texto": "As ruas são do Rei, as estradas da Rainha, mas não se preocupe, a cova é sua.\nBenefício: Durante uma cena o personagem adquire a capacidade de realizar ataques contra outros veículos usando condução. Caso acerte causa 1D8 de dano ao veículo e penalidade de - 2 para o teste de condução do piloto acertado."
+     }
+    ],
+    [
+     {
+      "nome": "Recuperar o Controle",
+      "exec": "Ação Livre",
+      "texto": "Pode recuperar de um acidente\nBenefício: Caso o personagem tenha sofrido um acidente com seu veículo ele poderá rerolar seu teste, mas em caso de falha receberá dano dobrado."
+     },
+     {
+      "nome": "Manobra Evasiva",
+      "exec": "Ação Livre",
+      "texto": "O personagem possui uma habilidade extraordinária de esquiva, sendo capaz de antecipar e evitar ataques diretos ao seu veículo como se fosse a si mesmo.\nBenefício: O personagem pode esquivar de um ataque com seu bônus de condução enquanto dirige e em caso de sucesso o ataque errará o veículo."
+     },
+     {
+      "nome": "Pilotagem Invisível",
+      "exec": "Ação Livre",
+      "texto": "O piloto é capaz de realizar manobras de forma tão suave e imperceptível que se torna quase indetectável.\nBenefício: O personagem pode usar sua perícia de condução para testes de Infiltração enquanto dirige."
+     }
+    ],
+    [
+     {
+      "nome": "Derrapagem",
+      "exec": "Ação Padrão",
+      "texto": "O personagem desenvolveu a habilidade de corrigir uma derrapagem durante uma corrida com facilidade.\nBenefício: O personagem pode retomar o controle do carro após perder o controle dele e fazê-lo derrapar conseguindo não causar danos ao veículo ou passageiros."
+     },
+     {
+      "nome": "Ultrapassar",
+      "exec": "Ação Livre",
+      "texto": "O personagem possui uma habilidade excepcional em ultrapassar seus oponentes durante corridas, permitindolhe ganhar vantagens estratégicas.\nBenefício: O personagem pode tomar a frente de qualquer veículo em corrida contanto que sua velocidade esteja igual ou superior a do alvo."
+     },
+     {
+      "nome": "Correndo contra o Clima",
+      "exec": "Ação Livre",
+      "texto": "O piloto é capaz de pilotar em condições climáticas adversas, como tempestades, nevoeiros densos ou terrenos perigosos, mantendo o controle.\nBenefício: O personagem ignora qualquer penalidade por tipo de ambiente ou clima durante uma cena."
+     }
+    ],
+    [
+     {
+      "nome": "A Velocidade",
+      "exec": "Ação Padrão",
+      "texto": "O personagem é um com a velocidade e com isso o único destino é o primeiro lugar.\nBenefício: O personagem triplica a velocidade atual do carro por 2D4 rodadas possibilitando distâncias elevadíssimas. Caso acidente gravemente o dano será dobrado."
+     },
+     {
+      "nome": "Lenda",
+      "exec": "Ação Livre",
+      "texto": "O personagem é uma verdadeira lenda, cujos feitos e conquistas são tão grandiosos que se tornaram lendários.\nBenefício: pode realizar um teste de Condução (DT 40) sem realizar testes uma vez por cena."
+     },
+     {
+      "nome": "Demônio sobre Rodas",
+      "exec": "Ação Padrão",
+      "texto": "O Rei das Ruas conecta seu veículo com o sobrenatural fazendo com que seja envolvido por fogo.\nBenefício: Enquanto estiver em chamas o carro reduz todo dano que sofrer a metade e pode realizar ataques de encontro contra qualquer alvo causando 4D6 de dano de Fogo ao alvo em caso de acerto.\nEspecial: Essa habilidade só pode ser usada uma vez por dia e durante uma cena."
+     }
+    ]
+   ]
+  },
+  {
+   "pericia": "Conhecimento",
+   "descricao": "Conhecimento, como a própria origem da palavra indica, é o ato ou efeito de conhecer. Refere-se ao conjunto de informações, habilidades e experiências adquiridas por um indivíduo ao longo da vida. Os personagens que seguem esse foco são dedicados a aumentar seu conhecimento e proteger relíquias em benefício e segurança da humanidade. No entanto, às vezes, eles também desejam aproveitar pessoalmente as próprias relíquias, utilizando seus poderes para o bem próprio. São docentes responsáveis por transmitir conhecimentos, desenvolver habilidades e despertar o potencial dos alunos, desempenhando um papel fundamental no processo de formação e crescimento de indivíduos.",
+   "passivo": "A memória do personagem nunca se esgota e isso o ajuda, pois o personagem não precisa realizar testes de Memória para se lembrar de algo além disso ele consegue ler em qualquer idioma, mesmo que não fale o idioma em questão.",
+   "etapas": [
+    [
+     {
+      "nome": "Estudos Avançados",
+      "exec": "Ação Padrão",
+      "texto": "O estudo faz com que o personagem tenha acesso a resultados extraordinários para suas pesquisas.\nBenefício: Uma vez por cena o personagem pode optar por receber um resultado (DT 30) no lugar de rolar o teste de Conhecimento."
+     },
+     {
+      "nome": "Estímulo à Criatividade",
+      "exec": "Ação Livre",
+      "texto": "O personagem incentiva a criatividade e o pensamento crítico dos alunos, promovendo a busca por soluções inovadoras e estimulando a expressão individual.\nBenefício: O personagem fornece +2 para todos os testes que envolvam Intelecto de um alvo por um número de rodadas igual a seu intelecto."
+     },
+     {
+      "nome": "Mantendo a Calma",
+      "exec": "Ação Livre",
+      "texto": "O personagem adquiriu a habilidade de agir com calma e tranquilidade mesmo em situações de grande tensão.\nBenefício: O personagem pode trocar qualquer atributo de um teste de conhecimento para Intelecto."
+     }
+    ],
+    [
+     {
+      "nome": "Pesquisas Rápidas",
+      "exec": "Várias Rodadas",
+      "texto": "O personagem tem um acesso ao conhecimento que torna o tempo muito menor para alcançar objetivos que levariam horas.\nBenefício: O personagem consegue realizar uma pesquisa que levaria horas em Rodadas. Cada hora se torna uma rodada apenas. Só é possível usar essa habilidade uma vez para um mesmo teste."
+     },
+     {
+      "nome": "Fonte de Conhecimento",
+      "exec": "Ação Livre",
+      "texto": "O personagem possui um vasto conhecimento em diversas áreas de estudo, permitindo-lhe abordar diferentes temas e disciplinas com autoridade.\nBenefício: O personagem pode escolher seu melhor atributo para realizar testes de Conhecimento mesmo em momentos de pressão."
+     },
+     {
+      "nome": "Cruzando Referências",
+      "exec": "Ação Livre",
+      "texto": "O personagem dedicou-se intensamente ao estudo de diversas áreas do conhecimento, ampliando sua compreensão.\nBenefício: O personagem pode realizar testes de Conhecimento no lugar de um teste de Arte ou Ocultismo."
+     }
+    ],
+    [
+     {
+      "nome": "Conhecimento Assertivo",
+      "exec": "Ação Padrão",
+      "texto": "Enquanto estiver em ambientes certos o personagem nunca errará\nBenefício: Enquanto estiver dentro de uma biblioteca ou ambiente específico de pesquisa, todo resultado do personagem em testes de Conhecimento recebe vantagem por uma cena."
+     },
+     {
+      "nome": "Conhecimento Vem primeiro",
+      "exec": "Ação Livre",
+      "texto": "O personagem usa de sua retórica para tentar impedir derramamento de sangue\nBenefício: O personagem adiciona seu conhecimento em seu teste de Iniciativa e caso seja o primeiro a agir poderá usar seus testes de Conhecimento para acalmar adversários."
+     },
+     {
+      "nome": "Olhos para o Estudo",
+      "exec": "Ação Padrão",
+      "texto": "O personagem valorizou o tempo investido em estudos criando domínio sobre os temas pesquisados.\nBenefício: Durante uma Cena o personagem consegue realizar testes de Conhecimento como ação livre e dobra seu valor de Intelecto no teste."
+     }
+    ],
+    [
+     {
+      "nome": "Transferência de Conhecimento",
+      "exec": "Rodada completa",
+      "texto": "O personagem adquire a capacidade de transferir seus conhecimentos para qualquer alvo que queira, deixando as informações diretamente na mente desse alvo.\nBenefício: O personagem pode projetar seu conhecimento diretamente na mente de outra pessoa que possa ver."
+     },
+     {
+      "nome": "Construção de Relacionamentos",
+      "exec": "Várias Rodadas",
+      "texto": "O personagem estabelece vínculos afetivos e construtivos com os alunos, cultivando um ambiente de confiança e respeito mútuo.\nBenefício: Qualquer personagem que esteja auxiliando o personagem recupera 2 pontos de sanidade por hora de pesquisa."
+     },
+     {
+      "nome": "Mente Treinada",
+      "exec": "Ação Padrão",
+      "texto": "O domínio sobre a mente permite que o personagem consiga ter sucessos mesmo quando seu corpo e mente estão debilitados\nBenefício: O personagem pode realizar uma Magia Oculta mesmo estando com condições que o impeçam (Agarrado, enxaqueca etc.) Ele deve realizar um teste de conhecimento (DT 10 + ciclo da\nMagia)\nEspecial: Em caso de sucesso poderá conjurar sua habilidade. Em caso de falha os pontos são gastos normalmente."
+     }
+    ]
+   ]
+  },
+  {
+   "pericia": "Explosivos",
+   "descricao": "O personagem reconhece o poder dos explosivos como uma ferramenta destrutiva, capaz de facilitar ações impactantes e causar danos significativos. O personagem entende o significado abrangente do termo \"cientista\" e reconhece que ele se refere a qualquer pessoa engajada em uma busca sistemática pelo conhecimento. Podem ser indivíduos que veem na destruição e danificação de bens públicos, valiosos ou históricos uma forma de expressão e resistência. Para eles, o vandalismo é uma maneira de desafiar o poder das grandes corporações e questionar as estruturas estabelecidas.",
+   "passivo": "O personagem recebe metade do dano de explosões e todo o dano que o personagem causar a estruturas será dobrado.",
+   "etapas": [
+    [
+     {
+      "nome": "Bombas Especiais",
+      "exec": "Rodada Completa",
+      "texto": "O personagem possui habilidades avançadas na criação de explosivos, dominando os conhecimentos e técnicas necessários para desenvolver bombas de diversos tipos.\nBenefício: O personagem consegue criar explosivos (Consulte o capítulo:\nCapítulo Comprando Itens) para auxiliar em cenas. Esses itens NÃO podem ser vendidos.\n1D2 Granadas de Gás\n1 Granada Incendiária\n1 Granada Elétrica\nEspecial: Essa habilidade só pode ser usada uma vez por cena."
+     },
+     {
+      "nome": "Improvisador Nato",
+      "exec": "Ação Livre",
+      "texto": "O explosivo improvisado pode ter muito poder se bem montado. O personagem sabe como criar obras de destruição.\nBenefício: O personagem dobra o dano de qualquer explosivo que improvise."
+     },
+     {
+      "nome": "Explosivos",
+      "exec": "Ação Livre",
+      "texto": "O Personagem está sempre pronto para causar danos então ele leva consigo molotovs\nBenefício: O personagem consegue criar 1D4+1 Molotovs por semana e caso acabem deverá esperar a próxima semana para recuperá-los (Consulte\nCapítulo: Comprando Itens)"
+     }
+    ],
+    [
+     {
+      "nome": "Misturando",
+      "exec": "Ação Livre",
+      "texto": "O personagem usa compostos e cria algo totalmente novo.\nBenefício: A personagem junta dois explosivos distintos e monta um novo somando dano e efeitos.\nEspecial: Esse efeito só pode ser usado uma vez no mesmo explosivo."
+     },
+     {
+      "nome": "Mestre do Desarme",
+      "exec": "Ação Livre",
+      "texto": "O personagem sabe que o fio tem que ser cortado, mas mesmo entre vários fios vermelhos um deles deve ser o certo.\nBenefício: O personagem pode ignorar uma falha em um teste de desarme de explosivos."
+     },
+     {
+      "nome": "Especialista em Caos",
+      "exec": "Ação Livre",
+      "texto": "O Personagem entende que seu foco é causar mais danos, então ele posiciona seus explosivos de forma sagaz.\nBenefício: O personagem adiciona sua Agilidade ao dano de seus explosivos por uma cena"
+     }
+    ],
+    [
+     {
+      "nome": "Granada de Efeito Moral",
+      "exec": "Ação Livre",
+      "texto": "O foco das lutas é terminá-las e o personagem entende que pode desacordar seus antagonistas para resolver as questões mais rapidamente.\nBenefício: O personagem criará uma granada de efeito moral. Qualquer personagem em seu alcance (6 metros) que a respire deverá realizar um teste de Vitalidade (DT 13) e em caso de falha desmaiará."
+     },
+     {
+      "nome": "Improvisador de Emergência",
+      "exec": "Ação Livre",
+      "texto": "O personagem sabe que o tempo não ajuda na hora de improvisar.\nBenefício: O personagem pode improvisar explosivos como ação livre gastando sua reação."
+     },
+     {
+      "nome": "Fortificando o caos",
+      "exec": "Ação Livre",
+      "texto": "O Personagem incendeia ônibus, destrói lojas e causa o mais puro caos onde estiver.\nBenefício: Todos os explosivos incendiários do personagem dobram dano pela cena."
+     }
+    ],
+    [
+     {
+      "nome": "Ácidos",
+      "exec": "Ação Padrão",
+      "texto": "O personagem cria um explosivo acido de dano absurdo podendo destruir objetos ou até adversários.\nBenefício: O personagem cria um explosivo com ácidos misturados a sua composição aumentando o dano do explosivo em 6D6.\nEspecial: Essa habilidade pode corroer itens."
+     },
+     {
+      "nome": "Piromania",
+      "exec": "Rodada Completa",
+      "texto": "O personagem cria um explosivo que tem potência altíssima\nBenefício: O personagem cria uma bomba que irá fazer qualquer prédio queimar por completo em até 1 hora. O fogo dará 1D6 de dano em todos dentro do prédio por rodada e consumirá um ponto de Fôlego a cada 1D6 rodadas.\nEspecial: Caso um personagem zere pontos de Fôlego ele desmaiará e entrará na condição “Morrendo”. O corpo de bombeiro será acionado mudando o andamento da cena como um todo."
+     },
+     {
+      "nome": "Toque da Destruição",
+      "exec": "Ação Padrão",
+      "texto": "O Personagem pode tocar em objetos e fazer com que eles se desintegrem instantaneamente.\nBenefício: O personagem consegue destruir qualquer objeto mundano que toque."
+     }
+    ]
+   ]
+  },
+  {
+   "pericia": "Furto",
+   "descricao": "O personagem aprimora sua capacidade de planejamento e estratégia, estudando minuciosamente os alvos e identificando pontos fracos e vulnerabilidades. É um personagem profundamente envolvido em conflitos, mas que prefere agir discretamente e não busca dominar o mundo por meio de suas habilidades naturais. O personagem compreende que, na maioria das vezes, é necessário se ocultar para superar adversidades. O personagem entende que uma porta fechada pode ser um convite para descobertas emocionantes. Ele reconhece que muitas vezes atrás dessas portas há segredos valiosos, tesouros escondidos e oportunidades únicas.",
+   "passivo": "Sempre que o personagem falhar em um teste de Furto o alvo do teste tem 50% de chance de não perceber a tentativa e enquanto o personagem estiver consciente no combate o dano de seus ataques aumenta em +1D6 em qualquer oponente estiver desprevenido.",
+   "etapas": [
+    [
+     {
+      "nome": "Danificar",
+      "exec": "Ação Padrão",
+      "texto": "O personagem sabe que é necessário incapacitar o inimigo para vencer.\nBenefício: O personagem realiza um ataque corpo a corpo contra o alvo que realiza um teste de Vitalidade (DT 12). Caso falhe o alvo se tornará desprevenido por um número de rodadas igual a Agilidade do personagem."
+     },
+     {
+      "nome": "Desemperrar trava",
+      "exec": "Ação Livre",
+      "texto": "O personagem possui habilidades excepcionais quando se trata de lidar com trincos e fechaduras.\nBenefício: O personagem remove qualquer objeto que esteja travando um trinco ou tranca"
+     },
+     {
+      "nome": "Libertar-se",
+      "exec": "Ação Livre",
+      "texto": "O personagem sabe se soltar de algemas como se elas nunca estivessem ali.\nBenefício: O personagem recebe vantagem para se soltar de qualquer contenção que o estiver prendendo."
+     }
+    ],
+    [
+     {
+      "nome": "Sem fugas",
+      "exec": "Ação Padrão",
+      "texto": "O personagem não deixa uma vítima fugir mesmo que ela implore.\nBenefício: : O personagem realiza um ataque corpo a corpo contra o alvo que realiza um teste de Vitalidade (DT 14) para não ser afetado pelo efeito. Caso falhe o alvo -3 em reações para reagir a manobras por um número de rodadas igual a Agilidade do personagem."
+     },
+     {
+      "nome": "Mão leve",
+      "exec": "Ação Padrão",
+      "texto": "O gatuno pode usar suas habilidades para ganhar vantagens em cena\nBenefício: O personagem pode gastar uma reação para furtar, arrombar fechaduras ou sabotar objetos como ação livre."
+     },
+     {
+      "nome": "Mãos Rápidas",
+      "exec": "Ação Livre",
+      "texto": "O personagem consegue deixar oponentes confusos e quando eles derem conta seus itens já estarão longe.\nBenefício: O personagem impõe desvantagem para o adversário perceber que está sendo roubado"
+     }
+    ],
+    [
+     {
+      "nome": "Furtar rapidamente",
+      "exec": "Ação Padrão",
+      "texto": "O personagem consegue se aproveitar das falhas de seu inimigo\nBenefício: Se um alvo estiver Desprevenido o personagem pode realizar um teste de furto com vantagem para desarmá-lo.\nEspecial: Essa habilidade só pode ser usada uma vez por cena."
+     },
+     {
+      "nome": "Destrancar",
+      "exec": "Ação Livre",
+      "texto": "O personagem pode usar de seus conhecimentos para abrir portas\nBenefício: O personagem destranca qualquer porta trancada por trinco.\nEspecial: Trancas eletrônicas não são afetadas por essa habilidade."
+     },
+     {
+      "nome": "Sabotagem",
+      "exec": "Ação Padrão",
+      "texto": "O personagem sabota um veículo para prejudicar o motorista.\nBenefício: O personagem pode realizar uma das sabotagens a um veículo dando penalidade em testes para utilizá-lo:\nLuz: O alvo terá desvantagem em testes de condução.\nVolante: Todos os testes aumentam em 5\nMotor: Se o personagem falhar em dois testes seguidos é considerado automaticamente uma falha dramática capotando o carro."
+     }
+    ],
+    [
+     {
+      "nome": "Olhar de Algoz",
+      "exec": "Ação Padrão",
+      "texto": "O personagem impede um adversário de se proteger por um curto período. Assim a vitória é garantida.\nBenefício: O personagem escolhe um alvo. Esse alvo não poderá utilizar uma reação de suas reações (Esquiva,\nbloqueio ou Contra-ataque) por 1D6 rodadas."
+     },
+     {
+      "nome": "Dedos Ágeis",
+      "exec": "Ação Livre",
+      "texto": "O personagem sabe arrombar coisas como se isso fosse a coisa mais simples do mundo\nBenefício: O personagem reduz à metade o tempo necessário para uma ação de arrombamento e não precisa de ferramentas ladrões para arrombamentos complexos."
+     },
+     {
+      "nome": "O Roubo",
+      "exec": "Ação Livre",
+      "texto": "O personagem é o mestre do roubo e pode realizar isso mesmo enquanto luta com alguém. Nada pode parar os dedos mais rápidos e ninguém pega o ladrão mais esperto da sala.\nBenefício: O personagem pode realizar um teste de Furto contra um alvo que esteja engajado em combate. Em caso de sucesso poderá furtar qualquer item que esteja segurando."
+     }
+    ]
+   ]
+  },
+  {
+   "pericia": "Infiltração",
+   "descricao": "O personagem sabe quando e como agir, esperando pacientemente pelo momento certo para executar suas ações sem chamar a atenção. Sua habilidade em evitar ser notado permite que ele se mova com facilidade em áreas restritas, escapando de olhares curiosos e abandonando apenas um rastro de mistério. Um indivíduo habilidoso na arte de desaparecer. Ele aprendeu a sobreviver nas sombras, esquivando-se das garras da justiça e daqueles que buscam vingança. É um especialista em disfarces e na arte de se transformar em diferentes pessoas. Ele entende que mudar sua aparência e identidade é fundamental para escapar da atenção indesejada e se movimentar com liberdade. Sempre passando despercebido no cotidiano, utilizando suas habilidades para se mover discretamente sem chamar atenção. Ele compreende que a invisibilidade é a chave para alcançar seus objetivos de forma eficaz.",
+   "passivo": "Qualquer personagem que tente confirmar sua identidade tem desvantagem para o teste a não ser que conheça pessoalmente a pessoa original copiada e qualquer tentativa de identificar o personagem a partir de fotografias ou filmagens tem desvantagem.",
+   "etapas": [
+    [
+     {
+      "nome": "Ser Outro",
+      "exec": "Ação Padrão",
+      "texto": "O personagem tem a habilidade extraordinária de se passar por outra pessoa de forma convincente.\nBenefício: O personagem consegue se passar por outra pessoa contanto que esteja conversando com alguém que não conhece a pessoa original."
+     },
+     {
+      "nome": "Sempre atento",
+      "exec": "Ação Padrão",
+      "texto": "O personagem aprende como sair de ambientes assim que entra neles.\nBenefício: O personagem sempre sabe onde são as saídas de emergência de prédios"
+     },
+     {
+      "nome": "Agilidade discreta",
+      "exec": "Ação Padrão",
+      "texto": "O personagem consegue se mover cautelosamente mesmo com mais velocidade.\nBenefício: O personagem pode andar normalmente sem perder a furtividade por uma cena."
+     }
+    ],
+    [
+     {
+      "nome": "Mesclar",
+      "exec": "Ação Livre",
+      "texto": "O personagem pode se mesclar com multidões e se mover mais rápido devido isso\nBenefício: O personagem pode receber vantagem para o teste para se misturar em uma multidão."
+     },
+     {
+      "nome": "Indetectável",
+      "exec": "Ação Livre",
+      "texto": "O personagem aprendeu a se virar e com isso nunca ser visto a não ser que deseje que isso aconteça.\nBenefício: O personagem não é pego por nenhuma câmera a não ser que queira por uma cena."
+     },
+     {
+      "nome": "Mestre furtivo",
+      "exec": "Ação Livre",
+      "texto": "O personagem pode esconder uma pessoa com facilidade fazendo com que seja mais difícil encontrá-la.\nBenefício: Quando o personagem esconder um alvo qualquer um que for procurar o alvo ocultado terá desvantagem em seu teste de percepção."
+     }
+    ],
+    [
+     {
+      "nome": "Discreto",
+      "exec": "Ação Livre",
+      "texto": "O personagem possui um talento especial para se esconder durante perseguição, conseguindo encontrar locais estratégicos e se camuflar de forma eficiente, sem sofrer penalidades ou ser facilmente detectado pelos seus perseguidores.\nBenefício: O personagem pode realizar um teste para se esconder durante uma perseguição sem penalidades."
+     },
+     {
+      "nome": "Fuga",
+      "exec": "Ação Livre",
+      "texto": "O personagem consegue se sobressair em momentos de desespero\nBenefício: O personagem consegue avançar em testes de Perseguição ou Tumulto com um resultado 8 ou maior por uma cena."
+     },
+     {
+      "nome": "Pés Leves",
+      "exec": "Ação Livre",
+      "texto": "O personagem consegue correr com passos que são quase inaudíveis e fazer coisas enquanto continua escondido\nBenefício: O personagem consegue correr sem deixar de estar escondido por um número de rodadas igual ao seu atributo Agilidade."
+     }
+    ],
+    [
+     {
+      "nome": "Sumir na Multidão",
+      "exec": "Ação Livre",
+      "texto": "O personagem pode desaparecer ante os olhos mais atentos sumindo em uma multidão\nBenefício: O personagem pode alcançar um resultado (DT 25) ao invés de rolar o dado para se esconder em uma multidão."
+     },
+     {
+      "nome": "Camuflagem",
+      "exec": "Ação Livre",
+      "texto": "O personagem pode se camuflar perfeitamente em seu ambiente, mesclando-se às sombras e se tornando quase indetectável.\nBenefício: O personagem pode alcançar um resultado (DT 40)teste de Infiltração que não seja sob pressão."
+     },
+     {
+      "nome": "Desaparecer",
+      "exec": "Ação Padrão",
+      "texto": "O personagem sabe fazer pessoas sumirem ao esconder fazendo com que seja praticamente impossível localizá-las sem ele.\nBenefício: Sempre que o personagem esconder alguém ou algo é impossível encontrá-los, contanto que permaneçam imóveis."
+     }
+    ]
+   ]
+  },
+  {
+   "pericia": "Informática",
+   "descricao": "O personagem reconhece que o mundo da tecnologia é o epicentro do controle e da influência nos dias de hoje. Sabendo disso, ele dedicou-se a se tornar um especialista no que faz. O personagem é um mestre da arte da dissimulação e da intrusão, usando sua perícia em invadir e contornar sistemas de segurança para alcançar seus objetivos. Ele domina a tecnologia, explorando as fronteiras entre a realidade e suas criações. Com sua profissionalização única, ele é capaz de manipular e controlar dispositivos tecnológicos dando-lhes vida e potencializando seus efeitos.",
+   "passivo": "O personagem cria 4 escutas que pode deixar em ambientes e ouvir tudo a partir delas contanto que esteja a no máximo 1km do local. Caso as escutas sejam destruídas o personagem leva uma semana para criar uma nova e o personagem não pode ter mais que 4 escutas simultaneamente.",
+   "etapas": [
+    [
+     {
+      "nome": "Derrubar o Sistema",
+      "exec": "Ação Padrão",
+      "texto": "O personagem possui a habilidade excepcional de derrubar sistemas complexos, manipulando habilmente códigos e algoritmos para penetrar nas defesas digitais mais robustas.\nBenefício: O personagem derruba um sistema de segurança desligando câmeras e alarmes por 1 hora."
+     },
+     {
+      "nome": "Mestre da invasão",
+      "exec": "Ação Livre",
+      "texto": "O personagem sabe acessar sistemas e isso é bem simples para ele\nBenefício: O Personagem recebe +2 para testes de informática durante uma cena."
+     },
+     {
+      "nome": "Alcance aumentado",
+      "exec": "Ação Livre",
+      "texto": "O limite do alcance de suas habilidades é a sua imaginação\nBenefício: O personagem dobra o alcance de qualquer habilidade de informática durante uma cena."
+     }
+    ],
+    [
+     {
+      "nome": "Recuperação",
+      "exec": "Ação Padrão",
+      "texto": "Dados destruídos podem ser trazidos de volta com tempo e paciência. Por sorte, o personagem tem os dois\nBenefício: O personagem pode recuperar os dados que qualquer servidor ou máquina foram destruídos sem realizar testes.\nEspecial: Essa habilidade só pode ser usada uma vez no mesmo objeto."
+     },
+     {
+      "nome": "Convites",
+      "exec": "Ação Padrão",
+      "texto": "O personagem consegue entrar em eventos sociais com seus convites 100% “legítimos”.\nBenefício: O personagem realiza um teste de Informática (DT 12) e em caso de sucesso consegue forjar convites e enganar os seguranças da entrada de um local. Após isso, os seguranças internos ainda poderão identificá-lo caso ele realize ações suspeitas."
+     },
+     {
+      "nome": "Drone",
+      "exec": "Rodada Completa",
+      "texto": "O personagem Cria a partir de matérias que tenha acesso um drone que pode agir livremente\nBenefício: O personagem usa um drone para realizar ações por ele por uma cena.\nIntegridade\nMovimento 6 Metros\nReações +5\nCarga 4 quilos\nDistância Máxima 15 metros\nEspecial: O drone não pode se afastar de seu controlador mais que 15 metros e pode realizar ações simples"
+     }
+    ],
+    [
+     {
+      "nome": "Bloqueio de Segurança",
+      "exec": "Ação Padrão",
+      "texto": "O personagem consegue bloquear um acesso de tecnologia de um sistema.\nBenefício: O personagem pode remover os acessos de uma equipe de segurança ao sistema por 1D100 minutos."
+     },
+     {
+      "nome": "Hora de apagar as luzes",
+      "exec": "Ação Livre",
+      "texto": "O personagem se dá melhor no escuro. Nada como desligar tudo só para testar.\nBenefício: O Personagem consegue desligar todo um edifício ou local por uma hora."
+     },
+     {
+      "nome": "Controle Remoto",
+      "exec": "Ação Padrão",
+      "texto": "O personagem criou um aparato que permite dirigir veículos sem estar efetivamente dentro deles\nBenefício: O personagem pode dirigir um veículo ou drone que esteja no máximo a 20 metros dele por um rodada."
+     }
+    ],
+    [
+     {
+      "nome": "Apagar Dados",
+      "exec": "Ação Padrão",
+      "texto": "O personagem possui a habilidade especial de invadir sistemas e apagar rastros e eliminando qualquer vestígio de sua presença.\nBenefício: O personagem consegue apagar informações de computadores conectados à rede."
+     },
+     {
+      "nome": "Sensores de Infravermelho",
+      "exec": "Ação Padrão",
+      "texto": "O personagem pode sentir o calor emitido pelos corpos vivos, permitindo que detecte a presença de pessoas mesmo em ambientes escuros ou com baixa visibilidade.\nBenefício: O personagem consegue detectar automaticamente seres vivos até 6 metros dele mesmo que invisíveis uma cena."
+     },
+     {
+      "nome": "Vamos ligar as Luzes",
+      "exec": "Rodada Completa",
+      "texto": "O personagem consegue fazer todos os aparelhos se manifestarem. Os aparelhos irão estourar, carros acelerar e o mundo se transformará em caos.\nBenefício: O personagem faz com que todos os aparelhos elétricos e eletrônicos em até 30 metros dele se liguem ao mesmo tempo causando uma cena de “Caos Generalizado”"
+     }
+    ]
+   ]
+  },
+  {
+   "pericia": "Interpessoal",
+   "descricao": "O profissional em comunicação busca estabelecer uma conexão clara e objetiva entre emissor e receptor, evitando qualquer tipo de interferência que possa comprometer a mensagem. O personagem tem acesso a ambientes luxuosos, onde festas grandiosas são realizadas, e pode usar sua fortuna para adquirir inúmeros itens que lhe são favoráveis. É um personagem astuto que utiliza seu amplo conhecimento do mundo para se destacar diante dos desafios que encontra.",
+   "passivo": "Uma vez por cena o personagem recebe 50% de chance de não ser preso caso seja pego pela justiça infringindo a lei.",
+   "etapas": [
+    [
+     {
+      "nome": "Mesada",
+      "exec": "Rodada Completa",
+      "texto": "O dinheiro do personagem sempre vem\nBenefício: Contanto que esteja em uma cidade o personagem recebe $2000.\nEspecial: Essa habilidade só pode ser usada uma vez por semana."
+     },
+     {
+      "nome": "Trocando Favores",
+      "exec": "Ação Padrão",
+      "texto": "O personagem tem a capacidade social de trocar favores como trocar de roupa. Esses favores geralmente o beneficiam.\nBenefício: O personagem propõe algo simples ao alvo (Me leve ao outro lado da cidade, me ajude a abrir essa porta emperrada, etc.) que deverá realizar um teste de Intelecto (DT 12) e em caso de falha o alvo se tornará um PDM aliado de Nível 2 pela cena.\nEspecial: Esse efeito não pode ser utilizado em alvos que não estejam, pelo menos, em estado neutro em relação ao personagem"
+     },
+     {
+      "nome": "Pacificador",
+      "exec": "Ação Padrão",
+      "texto": "O personagem consegue recuperar aqueles que estão se perdendo e assim ajudar que eles não se vão.\nBenefício: O personagem pode recuperar 1D10 pontos de sanidade do alvo."
+     }
+    ],
+    [
+     {
+      "nome": "Comprando a Mídia",
+      "exec": "Rodada Completa",
+      "texto": "O personagem tem o poder de influenciar a mídia local, garantindo que suas imagens e as de seus aliados sejam ignoradas ou minimizadas em caso de captura por câmeras de segurança ou filmagens de terceiros.\nBenefício: O personagem pode fazer com que uma cena filmada por terceiros seja considerada uma obra de entretenimento, impedindo buscas e apreensões em relação aos personagens envolvidos."
+     },
+     {
+      "nome": "Potencia em Grupo",
+      "exec": "Ação Livre",
+      "texto": "O personagem possui um escudo de proteção que o envolve, tanto física quanto emocionalmente.\nBenefício: O personagem recebe 2 de redução de danos físicos e mentais para cada 2 aliados em cena com ele limitado por seu valor de Vitalidade."
+     },
+     {
+      "nome": "Tratamento emergencial",
+      "exec": "Ação Padrão",
+      "texto": "O personagem pode trazer mentes de volta com muita facilidade\nBenefício: O personagem pode estabilizar automaticamente um alvo o deixando fora de perigo de surto.\nEspecial: Essa habilidade não pode ser usada mais de uma vez no mesmo alvo na mesma cena."
+     }
+    ],
+    [
+     {
+      "nome": "Negociador de Risco",
+      "exec": "Rodada Completa",
+      "texto": "Sua habilidade em negociação lhe permite ganhar descontos excepcionais\nBenefício: O personagem rola um D100 e o resultado do dado será o valor do desconto fornecido na compra do item em questão (Máximo 60%). Essa habilidade só pode ser usada uma vez por cena."
+     },
+     {
+      "nome": "Centro da Festa",
+      "exec": "Rodada Completa",
+      "texto": "Todos olham para o personagem e isso ajuda seus aliados a serem despercebidos\nBenefício: O personagem inicia um evento e uma aglomeração moderada vai se formar. Durante o evento, todos os aliados recebem vantagem em testes não combativos.\nEspecial: O evento pode durar até uma hora"
+     },
+     {
+      "nome": "Terapia",
+      "exec": "Rodada Completa",
+      "texto": "O personagem consegue remover a loucura da mente de seus aliados\nBenefício: O personagem ficará 1D6 rodadas realizando uma terapia de impacto no alvo e curando 3D12 de sanidade do alvo e removendo uma condição mental temporária que o personagem tiver."
+     }
+    ],
+    [
+     {
+      "nome": "Dinheiro Infinito",
+      "exec": "Rodada Completa",
+      "texto": "O personagem possui uma riqueza inesgotável, podendo adquirir qualquer coisa que quiser\nBenefício: O personagem pode aquirir qualquer item ou serviço que desejar seguindo as limitações de compra da região em que se encontra. (Não é\npossível comprar um Porsche em meio\na uma escavação no Mediterrâneo).\nEspecial: Essa habilidade só pode ser usada um número de vezes igual seu carisma por semana."
+     },
+     {
+      "nome": "Se eu fosse você eu fazia",
+      "exec": "Rodada Completa",
+      "texto": "O personagem pode dar uma sugestão ao alvo que terá grandes chances de fazê-la\nBenefício: O personagem dá uma ideia ao alvo que terá que realizar um teste de Intelecto (DT 16). Em caso de falha ele irá realizá-la.\nEspecial: Essa habilidade só funciona uma vez em um mesmo personagem e não pode ser solicitado nada que envolva o personagem tirar a própria vida."
+     },
+     {
+      "nome": "Voz da Razão",
+      "exec": "Rodada Completa",
+      "texto": "O personagem pode trazer de volta um personagem que enlouqueceu\nBenefício: Caso o alvo não sobreviva a um evento de surto ele terá a contagem de rodadas para estabilizá-lo reiniciada.\nEspecial: Essa habilidade pode ser usada em até 3 rodadas após o personagem enlouquecer e uma única vez no mesmo personagem."
+     }
+    ]
+   ]
+  },
+  {
+   "pericia": "Medicina",
+   "descricao": "O personagem se torna um agente de cura e apoio para aqueles que buscam ajuda médica, proporcionando alívio e tratamento para diversos problemas de saúde. O personagem, compreende a importância de uma avaliação rápida e precisa das condições da vítima e possui o conhecimento necessário para aplicar efeitos sobre os personagens. Dominando desde o cultivo e os ciclos naturais até as melhores técnicas de colheita. Além disso, ele compreende os usos culinários das ervas, explorando seu potencial medicinal e terapêutico.",
+   "passivo": "O personagem consegue realizar testes de Medicina como ação livre",
+   "etapas": [
+    [
+     {
+      "nome": "Bandagem",
+      "exec": "Ação Padrão",
+      "texto": "O personagem consegue fazer bandagens rápidas ao personagem, mas com o uso de um kit médico\nBenefício: O personagem cura 2D6 pontos de vida do alvo."
+     },
+     {
+      "nome": "Frutas Saudáveis",
+      "exec": "Várias Rodadas",
+      "texto": "O personagem colhe frutas que ajudam a recuperar a vida de quem as come.\nBenefício: Após 1D4 rodadas buscando o personagem colhe 3 frutas que curam 1D6 pontos de vida"
+     },
+     {
+      "nome": "Injeção de Adrenalina",
+      "exec": "Ação Padrão",
+      "texto": "Energia colocada no corpo traz o personagem ao seu pico\nBenefício: O personagem recebe uma ação de movimento extra durante 1D4 rodadas."
+     }
+    ],
+    [
+     {
+      "nome": "Não no meu Turno",
+      "exec": "Ação Padrão",
+      "texto": "O personagem já cansou de ver aqueles que poderiam ser salvos serem levados\nBenefício: O personagem pode estabilizar automaticamente um alvo o deixando fora de perigo de morte com zero pontos de vida.\nEspecial: Essa habilidade não pode ser usada mais de uma vez no mesmo alvo na mesma cena."
+     },
+     {
+      "nome": "Ervas Revitalizantes",
+      "exec": "Várias Rodadas",
+      "texto": "O personagem aprende a separar ervas que podem ajudar as mentes mais cansadas a se recuperar.\nBenefício: Após 1D4 rodadas o personagem colhe 2 ervas que curam 1D6 pontos de Sanidade."
+     },
+     {
+      "nome": "Injeção de Vigor",
+      "exec": "Ação Padrão",
+      "texto": "O personagem consegue criar um energético para ajudar o corpo a continuar.\nBenefício: O personagem recebe 20 pontos de vida adicionais podendo exceder seus pontos de vida totais. A cada rodada o personagem irá perder 5 pontos de vida dos pontos temporários fornecidos.\nEspecial: Essa habilidade só pode ser usada uma vez por cena."
+     }
+    ],
+    [
+     {
+      "nome": "Tratamentos Agressivos",
+      "exec": "Várias Rodadas",
+      "texto": "O personagem consegue endireitar fisicamente os corpos dos feridos em campo de batalha\nBenefício: O personagem ficará 1D4 rodadas realizando uma terapia de impacto no alvo e pode recuperar 2D10 + Intelecto pontos de vida do alvo ou remover uma condição física do alvo instantaneamente."
+     },
+     {
+      "nome": "Antídoto Natural",
+      "exec": "Ação Padrão",
+      "texto": "O personagem consegue criar antídotos a partir de plantas\nBenefício: O personagem pode curar um alvo envenenado a menos de 2 rodadas sem ter o antídoto necessário para tal"
+     },
+     {
+      "nome": "Potência Aumentada",
+      "exec": "Ação Padrão",
+      "texto": "A Injeção começa a melhorar capacidades do personagem\nBenefício: O personagem afetado aumenta um atributo em 2 pontos por 1D6+1 rodadas"
+     }
+    ],
+    [
+     {
+      "nome": "Reanimação",
+      "exec": "Ação Padrão",
+      "texto": "O personagem sabe que nem sempre quando o coração para é o fim.\nBenefício: O personagem pode trazer de volta a vida um alvo que morreu em até 3 rodadas. O personagem retorna na condição morrendo com 60% de chances de sobrevivência podendo assim ser morto novamente.\nEspecial: Essa habilidade só pode ser usada uma vez no mesmo alvo."
+     },
+     {
+      "nome": "Médico",
+      "exec": "Ação Padrão",
+      "texto": "Mesmo membros fraturados podem ser recuperados com tempo\nBenefício: O personagem recupera 3D12 pontos de vida e passará por um procedimento de 1D20 horas que removerá qualquer condição física do personagem que não seja permanente"
+     },
+     {
+      "nome": "Injeção Final",
+      "exec": "Ação Padrão",
+      "texto": "O Personagem consegue fazer aqueles que nos deixaram continuar por mais um tempo\nBenefício: O personagem pode utilizar a injeção em um alvo que morreu em até 2 rodadas e trazê-lo de volta a vida com seu total de pontos de vida até o final da cena. No fim da cena o personagem irá morrer novamente."
+     }
+    ]
+   ]
+  },
+  {
+   "pericia": "Obter Informações",
+   "descricao": "O personagem desenvolve habilidades específicas para coletar e analisar dados de diferentes fontes. Ele aprende técnicas de investigação, pesquisa e inteligência, além de dominar o uso de ferramentas e tecnologias que facilitam a obtenção de informações precisas e relevantes.",
+   "passivo": "O personagem tem uma vasta rede de contatos em diversos setores da sociedade, desde políticos e empresários até criminosos de baixa categoria. O personagem pode convocar seus contatos para fuga de ambientes policiais ou para acesso a armamentos que custem menos que seu valor de Carisma vezes $500.",
+   "etapas": [
+    [
+     {
+      "nome": "Informações Policiais",
+      "exec": "Rodada Completa",
+      "texto": "O personagem possui habilidades especiais que lhe permitem acessar os antecedentes criminais obtendo informações valiosas sobre um alvo.\nBenefício: O personagem consegue ter acesso a Antecedentes criminais do alvo e como localizar a região onde um alvo pode estar."
+     },
+     {
+      "nome": "Detectar Situações",
+      "exec": "Ação Livre",
+      "texto": "O personagem consegue detectar pensamentos superficiais de um alvo.\nBenefício: Caso o personagem esteja tocando um alvo ele terá desvantagem para mentir."
+     },
+     {
+      "nome": "Contando os segundos",
+      "exec": "Ação Livre",
+      "texto": "O personagem pode utilizar de seu controle do jogo para desestabilizar o alvo.\nBenefício: O personagem pode fazer com que um alvo realize um teste de Intelecto (DT 12) e em caso de falha, o alvo ficará assustado."
+     }
+    ],
+    [
+     {
+      "nome": "Infiltrado",
+      "exec": "Várias Rodadas",
+      "texto": "O personagem tem um amigo de confiança infiltrado em um gabinete político ou instituição e isso traz informações.\nBenefício: O personagem recebe acesso a dossiês sobre um alvo com endereço e informações pessoais e acesso a pontos de encontro da investigação."
+     },
+     {
+      "nome": "Impor Respeito",
+      "exec": "Ação Padrão",
+      "texto": "O Investigador emana uma aura de autoridade e dominação, fazendo com que os outros o vejam como um líder natural. Sua presença imponente impõe respeito e obediência, permitindo-lhe controlar e influenciar os que estão à sua volta.\nBenefício: O personagem pode forçar o alvo a realizar um teste de Intelecto (DT 15) e caso falhe ele irá ficar 1D8 rodadas abalado em relação ao personagem."
+     },
+     {
+      "nome": "Imposição da dor",
+      "exec": "Ação Padrão",
+      "texto": "O personagem sabe como causar dor aumentando aquilo que já está ruim e tornando pior\nBenefício: O personagem adiciona -2 as penalidades de uma condição aplicada ao alvo por 1D4 rodadas."
+     }
+    ],
+    [
+     {
+      "nome": "Ficha",
+      "exec": "Ação Padrão",
+      "texto": "O personagem possui uma habilidade especial que lhe permite identificar e compreender os pontos fortes do seu alvo.\nBenefício: O personagem tem acesso às duas perícias em que o alvo tem mais pontos investidos."
+     },
+     {
+      "nome": "Aura do Medo",
+      "exec": "Ação Padrão",
+      "texto": "Sua presença impõe temor nos corações daqueles que se opõem a você, enfraquecendo suas defesas.\nBenefício: Ao ativar essa habilidade todos os inimigos a menos de 9 metros do personagem recebem -4 em todos os testes que realizarem por um número de rodadas igual ao seu Carisma"
+     },
+     {
+      "nome": "Direto na Mente",
+      "exec": "Ação Livre",
+      "texto": "Qualquer um pode ser quebrado e o personagem vai quebrá-lo. Assim o alvo contará tudo.\nBenefício: Todo o dano causado pelo personagem em seu próximo ataque é considerado dano mental (Causado\ndireto na sanidade do alvo)."
+     }
+    ],
+    [
+     {
+      "nome": "Em todos os Lugares",
+      "exec": "Ação Padrão",
+      "texto": "O personagem tem acesso a uma rede de contatos muito específica que pode ajudar em diversas situações\nBenefício: Uma vez por cena o personagem rola um D100 e tem 50% de chance de ter um aliado no ambiente. Considere este PDM um aliado nível 3 em relação ao personagem."
+     },
+     {
+      "nome": "Visão Mística",
+      "exec": "Ação Padrão",
+      "texto": "Olhar para seu patrono pode fazer com que enigmas sejam respondidos e dúvidas respondidas.\nBenefício: Uma vez por cena o personagem pode tocar um alvo e fazer com que ele veja seu patrono por um rodada. O alvo precisará realizar um teste (DT 16) de Intelecto e em caso de falha receberá 2D12 de dano em sanidade."
+     },
+     {
+      "nome": "Das antigas",
+      "exec": "Ação Padrão",
+      "texto": "Ameaças psicológicas afetam diretamente o alvo o fazendo sofrer e entregar informações\nBenefício: Uma vez por cena, o personagem pode trazer os piores pesadelos de um alvo de volta a toda fazendo com que o alvo realize um teste de Intelecto (DT 16). Em caso de falha, recebe 4D6 de dano em sanidade”"
+     }
+    ]
+   ]
+  },
+  {
+   "pericia": "Ocultismo",
+   "descricao": "A busca pelo conhecimento oculto envolve um constante aprimoramento pessoal e uma compreensão íntima das forças ocultas que influenciam o mundo. Os estudiosos dessa filosofia se dedicam a decifrar os enigmas cósmicos e desvendar os segredos da existência, buscando uma maior conexão com o divino e uma compreensão mais ampla das verdades universais. Os personagens desenvolvem uma conexão profunda e amigável com o oculto. Eles possuem um contato poderoso e harmonioso com as forças ocultas, permitindo-lhes explorar e utilizar o sobrenatural.",
+   "passivo": "O personagem recebe um animal de tamanho pequeno ou menor que será seu familiar. O personagem consegue se comunicar telepaticamente com o familiar e consegue ver e ouvir por ele.",
+   "etapas": [
+    [
+     {
+      "nome": "Ritual de bonificação",
+      "exec": "Ação Livre",
+      "texto": "O personagem pode realizar rituais para bonificar seus aliados.\nBenefício: Enquanto o personagem mantiver o ritual, todos os aliados até 9 metros do personagem receberão um bônus +2 em ataques ou reações. Enquanto realiza o ritual o personagem só pode realizar uma ação por rodada.\nEspecial: Essa habilidade só pode ser utilizada uma vez por cena."
+     },
+     {
+      "nome": "Legado",
+      "exec": "Ação Livre",
+      "texto": "O personagem possui um livro, diário, DVD, CD etc., que contém informações que podem ser úteis na luta contra entidades sobrenaturais. Essa fonte é completamente original e única.\nBenefício: O personagem pode entender as causas ou relações de um incidente com o sobrenatural. Ele pode realizar uma pergunta de sim ou não para o narrador referente ao pesquisado e o narrador responderá de forma sincera."
+     },
+     {
+      "nome": "Afinidade com a Ressonância",
+      "exec": "Ação Livre",
+      "texto": "Sua conexão com o sobrenatural permite manipular a energia do Reino Reverso com maior eficiência.\nBenefício:Uma vez por cena, ao utilizar uma Magia oculta ou realizar um Ritual, o personagem pode reduzir o custo em Pontos de Sanidade de um efeito para zero."
+     }
+    ],
+    [
+     {
+      "nome": "Compartilhar Magia",
+      "exec": "Ação Livre",
+      "texto": "O personagem consegue levar suas Magias Ocultas por seu familiar\nBenefício: O personagem pode conjurar uma Magia Oculta de toque em seu familiar e assim que o familiar tocar em outro personagem essa habilidade será ativada como se o personagem estivesse tocando o alvo"
+     },
+     {
+      "nome": "Rastro Sobrenatural",
+      "exec": "Ação Livre",
+      "texto": "O personagem sabe seguir criaturas como um personagem seguiria um animal.\nBenefício: O personagem consegue seguir rastros de criaturas sem realizar testes contanto que o rastro seja de menos de 3 dias."
+     },
+     {
+      "nome": "Tocando o intocável",
+      "exec": "Ação Livre",
+      "texto": "O personagem se conecta com o sobrenatural para que possa ver os fantasmas ou espíritos incorpóreos.\nBenefício: O personagem consegue ver e interagir fisicamente com fantasmas durante uma cena."
+     }
+    ],
+    [
+     {
+      "nome": "Forma Animalesca",
+      "exec": "Ação Livre",
+      "texto": "O personagem pode se tornar um com seu familiar partilhando por um curto período sua forma e espécie.\nBenefício: O personagem consegue se transformar em um animal da mesma espécie que seu familiar por um número de horas igual ao seu Intelecto"
+     },
+     {
+      "nome": "Fraquezas identificáveis",
+      "exec": "Ação Livre",
+      "texto": "Você estudou os monstros e sabe como detê-los\nBenefício: O personagem sabe que todo monstro tem fraqueza e aumenta seu dano contra ele em 2D6 durante uma cena."
+     },
+     {
+      "nome": "Caminhar de Homem Morto",
+      "exec": "Ação Livre",
+      "texto": "O personagem pode se conectar diretamente com um cadáver e entender por seu ponto de vista como seus últimos momentos aconteceram.\nBenefício: O personagem deve tocar o cadáver para ver os seus últimos momentos da perspectiva do morto. O personagem se coloca no ponto de vista do morto e assistirá ao acontecido podendo assim encontrar soluções ou desvendar mistérios"
+     }
+    ],
+    [
+     {
+      "nome": "O Conclave",
+      "exec": "Ação Livre",
+      "texto": "Em momentos de grande perigo, o personagem é capaz de sacrificar parte de sua energia vital para ser temporariamente ressuscitado, retornando à batalha com força renovada.\nBenefício: O personagem pode abdicar de seus pontos de habilidade para curar aliados em estado “morrendo”. Cada 10% de chance de sobrevivência recuperada do alvo o personagem paga 3 pontos de sanidade."
+     },
+     {
+      "nome": "Punição do Caçador",
+      "exec": "Ação Livre",
+      "texto": "Você é o inimigo natural de criaturas sobrenaturais e elas também são o seu.\nBenefício: O personagem usa sua aura para purgar inimigos. O personagem causa 5D6 mais seu intelecto de dano em todas as criaturas até 9 metros dele. Teste de Agilidade (DT 16) reduz dano a metade.\nEspecial: Essa habilidade só pode ser usada a cada 1D4 rodadas."
+     },
+     {
+      "nome": "Banimento",
+      "exec": "Ação Livre",
+      "texto": "O personagem pode fazer com que um espírito abandone nosso mundo e vá para o reino dos mortos\nBenefício: O alvo deverá realizar um teste de Intelecto DT 15. Em caso de falha o espírito será banido do plano terreno.\nEspecial: Esse efeito só funciona em espíritos ou possessores (Consulte\nAntagonistas)"
+     }
+    ]
+   ]
+  },
+  {
+   "pericia": "Percepção",
+   "descricao": "Seu ouvido se torna mais sensível a sons imperceptíveis, captando até mesmo o mais suave sussurro ou o mais distante dos ruídos. Seu tato se torna mais refinado, permitindo que sinta texturas e vibrações com uma precisão incomum. É uma jornada que envolve desenvolver habilidades investigativas excepcionais e uma mente aguçada para desvendar mistérios. O personagem desenvolve um amplo leque de habilidades, desde técnicas de sobrevivência em ambientes naturais até estratégias de autossuficiência em períodos de crise.",
+   "passivo": "O personagem sabe onde é Norte, Sul, Leste e Oeste a partir das estrelas e o personagem possui um animal como seu aliado natural. Em cada região que o personagem estiver ele poderá chamar um aliado da região para ajudá-lo. O aliado chega em 1D4 rodadas e caso seja morto um novo só poderá ser chamado 1 dia depois.",
+   "etapas": [
+    [
+     {
+      "nome": "Comunicação Animalesca",
+      "exec": "Ação Livre",
+      "texto": "O personagem fala como animais como fala com outras pessoas e eles o entendem.\nBenefício: O personagem consegue passar pequenas instruções para animais sem a necessidade de realizar testes por uma cena."
+     },
+     {
+      "nome": "Investigar detalhes",
+      "exec": "Ação Livre",
+      "texto": "O personagem vai até os menores detalhes mesmo em momentos ruins\nBenefício: O personagem recebe vantagem para o próximo teste de investigar."
+     },
+     {
+      "nome": "Mapeando o caminho",
+      "exec": "Várias Rodadas",
+      "texto": "O personagem se tornou a própria bússola para os momentos em que está perdido\nBenefício: O personagem pode criar um mapa de todo o caminho percorrido até o momento, contanto que tenha uma superfície para escrever e algo para usar como caneta.\nEspecial: Essa habilidade demora 5 minutos para ser utilizada."
+     }
+    ],
+    [
+     {
+      "nome": "Ligação Empática",
+      "exec": "Ação Livre",
+      "texto": "O personagem consegue usar seu aliado para buscar informações.\nBenefício: Contanto que um Animal aliado esteja a no máximo 1 km do personagem ele poderá realizar testes de percepção pelo ponto de vista do animal."
+     },
+     {
+      "nome": "Controle de pistas",
+      "exec": "Ação Livre",
+      "texto": "Seus poderes de seguir detalhes são superiores aos dos outros quando o assunto é investigar.\nBenefício: Uma vez por cena o personagem pode perguntar ao narrador se ainda existe algo e se descobrir na cena."
+     },
+     {
+      "nome": "Sobrevivencialista",
+      "exec": "Várias Rodadas",
+      "texto": "O personagem se tornou um com a natureza sem se preocupar com como vai voltar para a civilização, pois a própria natureza vai ajudá-lo a sobreviver\nBenefício: O personagem constrói um pequeno abrigo na natureza para sobreviver e consegue arrumar alimento e água em quantidade para não morrer de inanição. O abrigo consegue fornecer comida e água para o grupo por 1 dia."
+     }
+    ],
+    [
+     {
+      "nome": "Rei dos animais",
+      "exec": "Ação Padrão",
+      "texto": "O personagem usa todos os animais na região para ajudá-lo a buscar\nBenefício: Uma vez por cena, o personagem pode escolher 19 em um teste no lugar de rolar o dado devido todos os animais da região estarem auxiliando na busca."
+     },
+     {
+      "nome": "Submundo",
+      "exec": "Ação Livre",
+      "texto": "O personagem consegue ir a eventos tão secretos que só uma batida da polícia poderia achar.\nBenefício: O personagem consegue entrar em qualquer evento secreto ou associação ilegal com 1D4 aliados sem ser considerado um possível problema."
+     },
+     {
+      "nome": "Predador",
+      "exec": "Ação Padrão",
+      "texto": "O personagem pode seguir rastros como uma fera, pois nada pode fugir de um caçador natural\nBenefício: O personagem pode realizar testes para seguir rastros de qualquer ser vivo como se fossem recentes."
+     }
+    ],
+    [
+     {
+      "nome": "Liderança Animal",
+      "exec": "Ação Livre",
+      "texto": "O personagem pode assumir o papel de líder de uma matilha, bando ou grupo de animais, influenciando seu comportamento e coordenando suas ações em busca de um objetivo comum.\nBenefício: Os animais que possam ouvir ou ver o personagem precisarão realizar um teste de Intelecto DT 15 e se falharem fará com que todos os animais afetados obedeçam por uma cena."
+     },
+     {
+      "nome": "Olhos de Águia",
+      "exec": "Ação Livre",
+      "texto": "O personagem tem mais chances de encontrar rastros que qualquer outro\nBenefício: O personagem recebe +6em um teste de percepção por uma Rodada."
+     },
+     {
+      "nome": "Sentido Cego",
+      "exec": "Ação Livre",
+      "texto": "Hoje o personagem conseguiu alcançar o máximo da percepção. Ninguém passa por ele sem que ele perceba\nBenefício: O personagem consegue saber exatamente onde estão todas as criaturas vivas ou fontes de barulho em um raio de 12 metros por uma cena."
+     }
+    ]
+   ]
+  },
+  {
+   "pericia": "Pontaria",
+   "descricao": "Essa habilidade vai além da mera proficiência técnica. O personagem desenvolve uma intimidade com a arma, aprendendo seus segredos e peculiaridades, explorando suas potencialidades e adaptando-se a diferentes situações de combate. É o personagem que busca o extraordinário, acreditando que está destinado a algo maior e atribuindo seus feitos e sucessos a esse potencial. Ele possui a capacidade de realizar ações de forma única, permitindo-lhe desafiar e mudar conceitos pré estabelecidos através de seu magnetismo pessoal e crença em suas próprias habilidades e realizações. Ele se aprofunda na arte da pistola, dominando o uso de armas de fogo com maestria. Ele estuda as técnicas e os princípios por trás do manuseio dessas armas, buscando aprimorar sua eficácia nos combates.",
+   "passivo": "O personagem consegue usar qualquer arma de fogo como se tivesse a vantagem de usar armas Exóticas para elas e soma sua graduação de pontaria para testes de iniciativa.",
+   "etapas": [
+    [
+     {
+      "nome": "Carismático de Combate",
+      "exec": "Ação Livre",
+      "texto": "O personagem usa seu carisma para manter seus adversários confusos\nBenefício: O personagem pode substituir Agilidade por seu Carisma para ataques à distância durante uma cena."
+     },
+     {
+      "nome": "Dedo no gatilho",
+      "exec": "Ação Livre",
+      "texto": "O personagem sabe que atirar primeiro é importante, por isso ele mantém seu dedo pronto para qualquer adversidade.\nBenefício: O personagem recebe um bônus para dano pelo sua colocação na iniciativa no combate durante a cena:\nColocação Bônus\n1º +3 de dano\n2º +2 de dano\n3º ou + +1 de dano"
+     },
+     {
+      "nome": "Estudando o Inimigo",
+      "exec": "Ação Padrão",
+      "texto": "O personagem é um especialista em tiros de longa distância que se dedica a focar inteiramente em seu alvo, buscando impedir que ele tenha qualquer chance de defesa.\nBenefício: O personagem pode optar por passar um rodada estudando o alvo. Na rodada seguinte o alvo terá -3 para reações e desvantagem para reagir a seus ataques a distância."
+     }
+    ],
+    [
+     {
+      "nome": "Precisão da Aventura",
+      "exec": "Ação Livre",
+      "texto": "O personagem aprende a disparar em pontos vitais para maximizar seus danos.\nBenefício: O personagem recebe +3 pontos de dano para seus ataques à distância durante uma cena."
+     },
+     {
+      "nome": "Recarga Rápida",
+      "exec": "Ação Livre",
+      "texto": "O personagem possui habilidades em manusear pentes de munição, permitindo uma recarga rápida e eficiente durante um combate.\nBenefício: O personagem carrega sua arma como ação livre\nEspecial: Essa habilidade não pode ser usada em armas que levem uma rodada completa para recarregar."
+     },
+     {
+      "nome": "Olhos ao alvo",
+      "exec": "Ação Livre",
+      "texto": "O personagem possui plena consciência de que o ambiente onde se encontra pode apresentar desafios adicionais em relação ao alcance de seus disparos.\nBenefício: O personagem nunca acerta aliados em seus disparos, mesmo que tire uma falha dramática no dado."
+     }
+    ],
+    [
+     {
+      "nome": "Tiro de Supressão",
+      "exec": "Ação Padrão",
+      "texto": "O personagem sabe que nem sempre acertar é necessário para vencer. O importante é atrapalhar.\nBenefício: Escolha um alvo. O personagem dispara uma saraivada de balas que não acertam o alvo, mas impõem -4 para ataques e reações durante uma rodada."
+     },
+     {
+      "nome": "Ricochetear",
+      "exec": "Ação Livre",
+      "texto": "A arte de utilizar as superfícies ao seu redor como aliadas. Paredes, obstáculos e até mesmo o próprio chão se tornam meios para desviar de ataques e surpreender oponentes.\nBenefício: O personagem ignora qualquer penalidade causada pela cobertura ao teste de pontaria."
+     },
+     {
+      "nome": "Atirador Perfeito",
+      "exec": "Ação Livre",
+      "texto": "O personagem se torna um com seus armamentos aumentando sua efetividade.\nBenefício: O personagem aumenta em um dado o dano da arma utilizada em seus ataques à distância por uma cena."
+     }
+    ],
+    [
+     {
+      "nome": "Finta",
+      "exec": "Ação Padrão",
+      "texto": "O personagem sabe que tiros podem resolver tudo, mas às vezes um charme ajuda.\nBenefício: O personagem realiza um disparo contra um alvo e caso acerte o alvo deverá realizar um teste de Agilidade (DT 16) e em caso de falha irá ficar indefeso por uma rodada."
+     },
+     {
+      "nome": "Descarregar o Pente",
+      "exec": "Rodada Completa",
+      "texto": "O personagem é um atirador impetuoso, esvaziando o pente de sua arma de fogo de uma só vez.\nBenefício: O personagem realiza um disparo com desvantagem, mas dispara todas as munições do pente de uma vez.\nEspecial: A arma utilizada pela habilidade não pode ser usada novamente na mesma cena."
+     },
+     {
+      "nome": "Tiro de Elite",
+      "exec": "Ação Padrão",
+      "texto": "Com um único disparo certeiro, o personagem é capaz de destruir completamente seu alvo.\nBenefício: Ao acertar seu próximo ataque a distância, o dano será Triplicado.\nEspecial: O dano triplicado não afeta críticos."
+     }
+    ]
+   ]
+  },
+  {
+   "pericia": "Profissões",
+   "descricao": "O personagem possui um olhar atento para identificar potenciais problemas estruturais e realizar avaliações de risco. Ele é capaz de analisar a integridade de uma estrutura, identificar pontos fracos e propor medidas preventivas para evitar possíveis danos ou colapsos O personagem é um verdadeiro sobrevivente, alguém que dominou a arte de lutar contra o mundo com os recursos disponíveis. Esse personagem reconhece que qualquer objeto pode ser transformado em uma arma eficaz e aprendeu a escolher sabiamente os itens que o cercam, garantindo que eles sejam duráveis o suficiente para enfrentar situações de vida ou morte. O personagem com habilidades de sabotagem é mestre em interferir e perturbar o ambiente, causando problemas para seus adversários.",
+   "passivo": "Qualquer teste de profissões do personagem cura 1 ponto de integridade de um item para cada 5 pontos de seu resultado",
+   "etapas": [
+    [
+     {
+      "nome": "Martelete Perfurador",
+      "exec": "Ação Livre",
+      "texto": "O personagem sabe que nem sempre contamos com equipamentos perfeitos, então usamos o que temos\nBenefício: O personagem pode realizar testes de profissão para atacar e bloquear durante uma cena."
+     },
+     {
+      "nome": "Remendo",
+      "exec": "Ação Padrão",
+      "texto": "Não tem nada que um remendinho não de jeito\nBenefício: O personagem recupera 2D10 pontos de Integridade de qualquer item."
+     },
+     {
+      "nome": "Sabotagem Perfeita",
+      "exec": "Ação Livre",
+      "texto": "O personagem sabe como deixar algo quebrado de forma absurda.\nBenefício: Durante uma cena qualquer teste que tente consertar uma sabotagem do personagem tem sua dificuldade aumentada em 2."
+     }
+    ],
+    [
+     {
+      "nome": "Chave Hidráulica",
+      "exec": "Ação Livre",
+      "texto": "O personagem sabe que sistemas são complexos e nem sempre o jeito funciona. Então vai na força mesmo!!\nBenefício: O personagem pode usar Força para testes de Profissões que seria outro atributo por uma cena."
+     },
+     {
+      "nome": "Solda",
+      "exec": "Ação Padrão",
+      "texto": "O personagem sabe que soldar bem soldado é o suficiente em vários casos\nBenefício: O personagem recupera 2D12 pontos de Integridade do item.\nEspecial: Se o item estiver com pontos de integridade abaixo de 5 recupera 4D12"
+     },
+     {
+      "nome": "Dano Estrutural",
+      "exec": "Ação Livre",
+      "texto": "O personagem sabe como colocar a casa abaixo. LITERALMENTE\nBenefício: O personagem sabe todos os pontos estruturais de um prédio sem a necessidade de testes."
+     }
+    ],
+    [
+     {
+      "nome": "Trabalho Braçal",
+      "exec": "Ação Padrão",
+      "texto": "O personagem sabe que o trabalho braçal pode ajudar em diversos momentos\nBenefício: O personagem pode realizar um teste de Profissões no lugar de qualquer outra perícia não combativa.\nEspecial: Essa habilidade só pode ser usada um número de vezes igual a seu valor de Vitalidade."
+     },
+     {
+      "nome": "A Máquina",
+      "exec": "Várias Rodadas.",
+      "texto": "Se eles querem pegar o carro, eles podem tentar.\nBenefício: O personagem cria qualquer veículo do capítulo Comprando Itens. Esse veículo tem o dobro de pontos de integridade e movimento do original.\nEspecial: Só pode existir uma máquina. Caso a máquina seja destruída, o personagem poderá criar outra. O tempo para criar uma Máquina é 1 semana."
+     },
+     {
+      "nome": "Explosão Remota",
+      "exec": "Ação Padrão",
+      "texto": "Plantar bombas em objetos elétricos é bem fácil para o personagem.\nBenefício: O personagem coloca uma armadilha em qualquer dispositivo elétrico. O primeiro personagem que interagir com o objeto deve realizar um teste de Intelecto (DT 14) e em caso de falha sofre 4D8 de dano elétrico.\nEspecial: Caso o personagem passe no teste o efeito afetará o próximo que interagir."
+     }
+    ],
+    [
+     {
+      "nome": "Revolução das Máquinas",
+      "exec": "Ação Padrão",
+      "texto": "O personagem consegue trazer as máquinas para seu lado do jeito que tem que ser.\nBenefício: O personagem consegue fazer uma máquina próxima (Trator, máquina\nde refrigerante, gerador) tornar-se um aliado em combate. (Consulte capítulo:\nComo funciona o Combate)."
+     },
+     {
+      "nome": "Hora de Correr",
+      "exec": "Ação Livre",
+      "texto": "Às vezes o jeito é não ter jeito e o personagem usa disso para sobreviver enquanto eles fogem\nBenefício: O carro começa a diminuir seus pontos de Integridade em 3 por rodada. Enquanto isso acontece, o carro dobrará de deslocamento e não receberá danos que não sejam o dessa habilidade. Quando a integridade do carro zerar ele irá explodir.\nEspecial: Este efeito não pode ser cancelado."
+     },
+     {
+      "nome": "Senhor dos Encanamentos",
+      "exec": "Ação Livre",
+      "texto": "O personagem sabe que os canos correm por todos os lados e usa isso para causar o caos em todos ao seu redor.\nBenefício: O Personagem estoura todos os encanamentos do ambiente (Rua, prédio, hidrante, etc.) criando uma cena de Tumulto.\nEspecial: O personagem não é afetado pela cena podendo se mover normalmente até a cena terminar."
+     }
+    ]
+   ]
+  },
+  {
+   "pericia": "Reações",
+   "descricao": "Você aprendeu a reagir antes mesmo de compreender completamente o perigo. Seus reflexos, instintos e treinamento permitem que você transforme frações de segundo em oportunidades para sobreviver. O personagem aprimora sua capacidade escolhendo a melhor resposta para cada ameaça. Você sabe quando sair da trajetória de um golpe, quando utilizar o que estiver ao seu alcance para se proteger e quando aproveitar uma abertura para devolver o ataque. Isso representa mais do que velocidade: é a capacidade de permanecer atento e agir sob pressão quando qualquer hesitação pode ser fatal. Em combate, você não espera o perigo passar, você reage a ele.",
+   "passivo": "O personagem recebe passivamente 2 de redução de danos físicos.",
+   "etapas": [
+    [
+     {
+      "nome": "Golem",
+      "exec": "Ação Livre",
+      "texto": "Você se transformou no guardião supremo. Sua presença inspira confiança e segurança em todos ao seu redor, preparando-os para enfrentar todas as adversidades\nBenefício: O personagem pode bloquear um ataque direcionado a qualquer aliado em até 3 metros uma vez por rodada.\nEspecial: Caso falhe o alvo ainda será atingido"
+     },
+     {
+      "nome": "Impacto duplo",
+      "exec": "Ação Livre",
+      "texto": "O personagem aprende a apanhar e acertar justamente para poder desestabilizar o inimigo\nBenefício: Uma vez por rodada o personagem pode realizar um teste de Reações contra o alvo e em caso de sucesso poderá realizar um ataque adicional contra o mesmo alvo."
+     },
+     {
+      "nome": "Olhos no Alvo",
+      "exec": "Ação Padrão",
+      "texto": "O personagem escolhe seu alvo e decide que ele será seu objetivo.\nBenefício: O personagem escolhe um alvo em combate e recebe 2 de redução de danos físicos e +2 para testes de reações contra ele. O personagem recebe a condição de “Desatento” para os outros personagens do combate e não consegue utilizar essa habilidade mais de uma vez por cena."
+     }
+    ],
+    [
+     {
+      "nome": "Agarrão de Combate",
+      "exec": "Ação Livre",
+      "texto": "O personagem reage a ações com imobilização e dor\nBenefício: Ao ser bem sucedido em um teste de Reações o personagem pode optar por agarrar o atacante ao invés de causar dano.\nEspecial: Esse efeito não funciona em criaturas muito maiores que o personagem."
+     },
+     {
+      "nome": "Bloqueio Focado",
+      "exec": "Ação Padrão",
+      "texto": "O personagem possui uma habilidade extraordinária de observação, sendo capaz de manter sua atenção focada nos movimentos do adversário.\nBenefício: O personagem consegue desarmar o alvo caso seja bem sucedido em seu teste de reação."
+     },
+     {
+      "nome": "Reação Inata",
+      "exec": "Ação Livre",
+      "texto": "O personagem alcança um reflexo que lhe permite esquivar de balas em momentos extremos.\nBenefício: O personagem pode realizar um teste de Reação de Esquiva ou Contra Ataque contra disparos de armas de fogo.\nEspecial: Após usar esta habilidade o personagem não poderá utilizar a mesma reação por uma rodada, mas poderá utilizar as outras reações normalmente"
+     }
+    ],
+    [
+     {
+      "nome": "Contra o Mundo",
+      "exec": "Ação Livre",
+      "texto": "O personagem é um muro a ser transposto. Um inimigo a ser derrubado e uma fortaleza a ser vencida. Nenhuma opção é viável.\nBenefício: Caso o personagem seja bem sucedido em seu próximo teste de Reações contra o atacante, ele o desarma e tem 50% de chance de derrubá-lo."
+     },
+     {
+      "nome": "Desengajar",
+      "exec": "Ação Livre",
+      "texto": "O personagem não mostra problemas a seu adversário. Ele ainda acredita que o inofensivo não é um problema\nBenefício: Durante uma rodada, o personagem não causa ataques de oportunidade (Conjurar, sair da área do adversário, etc.)"
+     },
+     {
+      "nome": "Um com o Escudo",
+      "exec": "Ação Padrão",
+      "texto": "Seja enfrentando ferozes ataques inimigos ou resistindo a poderosos golpes, ele demonstra uma habilidade excepcional em manter seu escudo íntegro e impenetrável.\nBenefício: O personagem dobra o bônus que seu escudo concede em seu teste de Reações por um número de rodadas igual ao seu atributo Vitalidade."
+     }
+    ],
+    [
+     {
+      "nome": "Barreira da Luz",
+      "exec": "Ação Livre",
+      "texto": "O tempo forja grandes guerreiros e aqueles que são lembrados como os que saíram de um combate sem sequer serem atingidos.\nBenefício: Uma vez por rodada o personagem se esquiva automaticamente em um teste contra um adversário ou alvo que possa ver em combate."
+     },
+     {
+      "nome": "Contra Ataque Descomunal",
+      "exec": "Ação Livre",
+      "texto": "O personagem pode mover um alvo ao contra atacá-lo fazendo com que tudo em seu caminho seja destruição\nBenefício: Ao ser bem sucedido em um teste de Reações o personagem pode mover o alvo para trás (Limitado por seu deslocamento) causando 1D6 de dano adicional para cada 1 metro movido. Essa habilidade só pode ser usada uma vez por cena."
+     },
+     {
+      "nome": "Negação",
+      "exec": "Ação Livre",
+      "texto": "O personagem consegue que efeitos sejam ignorados por sua aura.\nBenefício: Uma vez por cena o personagem pode cancelar uma Magia Oculta que tenha como alvo apenas ele."
+     }
+    ]
+   ]
+  }
+ ]
+}
