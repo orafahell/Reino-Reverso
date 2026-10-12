@@ -5,7 +5,7 @@ Versão no formato `MAIOR.MENOR.CORREÇÃO`:
 - **MENOR** sobe a cada rodada de ajustes (layout, recursos novos).
 - **CORREÇÃO** sobe quando só conserta algo que quebrou.
 
-Cada versão tem uma tag no repositório (`ficha-vX.Y.Z`). Para voltar a uma versão, abra a tag no GitHub e copie `html_Reino_Reverso.html` e `css_Reino_Reverso.css` dessa tag para o Roll20.
+Cada versão entregue fica congelada em `versoes/vX.Y.Z/` (HTML e CSS prontos para colar). Para voltar a uma versão, copie os dois arquivos da pasta dela para o Roll20. O código-fonte de cada versão está no commit correspondente do histórico.
 
 ## 1.0.0 — 12/10/2026 · linha de base
 

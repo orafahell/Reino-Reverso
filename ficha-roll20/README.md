@@ -25,4 +25,4 @@ node test_worker.js       # simula o script da ficha (rolagens, preenchimentos, 
 ## Fluxo de versão
 1. Cada rodada de ajustes vira uma branch e um PR.
 2. Subir `VERSAO` em `build.py`, registrar no `CHANGELOG.md` e gerar a ficha.
-3. Ao entregar, criar a tag `ficha-vX.Y.Z`.
+3. Copiar o HTML e o CSS gerados para `versoes/vX.Y.Z/`. Para voltar atrás, basta colar no Roll20 os arquivos da pasta da versão desejada.
